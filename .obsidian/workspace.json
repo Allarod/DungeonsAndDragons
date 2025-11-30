@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pj/Personajes Jugables/Kadresh Vol-Arim/Kadresh Vol-Arim.md",
+                "file": "Otros/Git para Idiotas 101.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Kadresh Vol-Arim"
+              "title": "Git para Idiotas 101"
             }
           }
         ]
@@ -339,13 +339,83 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "29730a681350e13d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_29887869fa28",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 47,
+                    "month": 1,
+                    "year": 1
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_da8b98caf8d8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "492aad6baf18176f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_29887869fa28",
+                "ephemeral": {
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 47,
+                    "month": 1,
+                    "year": 1
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_6828a9b9c858"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
+      },
+      {
+        "id": "9b531a7bf3346e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d86d9b546035966",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 614.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -371,8 +441,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "203cf74d439c2cd8",
+  "active": "11b7c5fc6e1e00da",
   "lastOpenFiles": [
+    "Otros/Git para Idiotas 101.md",
+    "Razas/Razas.md",
+    "Dioses/Dioses.md",
+    "Otros/Diario de Campaña.md",
     "Pj/Personajes Jugables/Kadresh Vol-Arim/Kadresh Vol-Arim.md",
     "Pj/Personajes Jugables/Kadresh Vol-Arim/Turnos de Kadresh/Turnos de Kadresh.md",
     "Pj/Pj.md",
@@ -405,10 +479,6 @@
     "Pj/Personajes Jugables/Gael/Turnos de Gael/Turnos de Gael.md",
     "Pj/Personajes Jugables/Gael/Puntos fuertes de Gael/Puntos fuertes de Gael.md",
     "Pj/Personajes Jugables/Gael/Importante sobre Gael/Importante sobre Gael.md",
-    "Pj/Personajes Jugables/Gael/Funciones de Gael/Funciones de Gael.md",
-    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Nueva Orden de Kadresh.md",
-    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Localizaciones de la Nueva Orden/Localizaciones de la Nueva Orden.md",
-    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Subordinados de la Nueva Orden/Subordinados de la Nueva Orden.md",
     "Imagenes/Gnomo 1.jpg",
     "Imagenes/Enano 1.jpg",
     "Pasted image 20251120175930.jpg",

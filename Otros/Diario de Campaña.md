@@ -1,6 +1,3 @@
----
-tags:
----
 - Domingo 16 de Noviembre 2025:
 	 - Empieza con una reunión con "El Banquero" en el subsuelo del banco de Claypeak, en la que les cuentan sobre "El comité" y sobre que traman algo en Buria. Además, a cada integrante les da un sobre que no se puede abrir por ahora con pistas que les acercaran a sus objetivos.
 	 - Salen hacia Buria y se encuentran con Chusco y Chusca, dos magos del comité a los que matan y obligan a dar información: El jefe es Tom, Mascara Amarilla, se encuentra en Buria.

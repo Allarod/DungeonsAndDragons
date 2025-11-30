@@ -1,4 +1,5 @@
 {
   "cssTheme": "Fancy-a-Story",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": "#22c3b8"
 }
