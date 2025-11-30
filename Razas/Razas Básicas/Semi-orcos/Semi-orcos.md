@@ -1,0 +1,1 @@
+Los semi-orcos poseen una esperanza de vida media mayor que los orcos, siendo esta de 75 años y alcanzando la adultez entorno a los 14 años.

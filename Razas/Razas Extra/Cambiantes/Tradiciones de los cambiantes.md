@@ -1,0 +1,13 @@
+Las tradiciones de los cambiantes se organizarán en dos secciones diferentes, haciendo referencia a las dos culturas que se formaron dentro de esta raza con el paso de las eras.
+
+Los cambiantes nómadas poseen varios rituales, ceremonias y costumbres que se van desarrollando a lo largo de la vida de cada individuo:
+
+- **Elección del patrón**: poco tiempo después de nacer un nuevo miembro, toda la familia realiza un viaje hacia el templo más cercano en el que se venere a "Pneuma" (Diosa reconocida por ser la patrona de los viajeros) y una vez allí realizan un ritual en el que se crea un circulo alrededor del bebe con los ídolos de los 13 dioses, cuando el bebe toca una estatuilla el dios que la representa bendice al bebe y los cambiantes creen que esta elección refleja la futura personalidad o hazañas del bebe.
+
+- **Prueba de Capacidad**: debido a la forma de vivir de estos cambiantes, su vida puede llegar a resultar muy dura. En un intento por facilitarle la vida a sus hijos, los padres comienzan a ponerles pruebas para diferentes oficios entre los 8 y los 10 años. Esto lo van llevando acabo convenciendo a los trabajadores de los distintos pueblos y ciudades por los que pasan y cuando un niño destaca en un área la familia suele dejar de viajar durante un tiempo mientras se aprende en profundidad dicho oficio.
+
+- **Primera Celebración**: Una vez aprendido un oficio y habiendo cumplido 15 años la familia lleva a cabo una gran celebración para dar la bienvenida a la adultez al miembro de la familia. En esta celebración se reúne el consejo familiar y entonces el nuevo adulto comunica a su familia los pasos que va seguir en adelante durante la siguiente etapa de su vida, donde empezaran a hacer viajes en solitario en vez de siguiendo a la familia.
+
+- **Segunda Celebración**: A partir de la edad adulta los cambiantes ya comienzan a buscar posibles parejas a lo largo de sus viajes. Una vez encuentran pareja, buscan a su familia y cuando la encuentran se celebra la unión con una gran fiesta.
+
+En general la presencia de estos cambiantes por pueblos y ciudades es considerada un festival, pues al ser tan únicos y con habilidades tan variadas acaban despertando la curiosidad de todos y suelen dejar ganas de volverlos a ver, por suerte estas familias nómadas tienen por costumbre establecer un circuito de pueblos y ciudades a lo largo del año de manera cíclica así que no es raro que cada año se vuelva a ver a la misma familia haciendo su recorrido.

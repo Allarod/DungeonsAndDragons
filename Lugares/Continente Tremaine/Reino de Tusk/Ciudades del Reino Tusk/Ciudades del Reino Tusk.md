@@ -1,0 +1,1 @@
+En el Reino de Tusk existen cuatro ciudades: *[[Claypeak]]*, *[[Buria]]*, *[[Erieiburn]]* y *[[Sozarock]]*.

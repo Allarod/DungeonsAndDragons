@@ -1,0 +1,1 @@
+Los orcos poseen una esperanza media de vida mucho menos que el resto de razas, siendo esta de 50 años y alcanzando la adultez a los 10. Compensan su corta esperanza de vida siendo muy prolíficos, tanto es así que no es raro que una pareja tenga entre 5 y 10 hijos sin mayores complicaciones.

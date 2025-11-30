@@ -1,0 +1,423 @@
+{
+  "main": {
+    "id": "d1110a53ffde8a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e7e59ff424bd51",
+        "type": "tabs",
+        "dimension": 72.79661016949153,
+        "children": [
+          {
+            "id": "9fd1c3f177ac6bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pj/Personajes Jugables/Kadresh Vol-Arim/Kadresh Vol-Arim.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kadresh Vol-Arim"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c82c4a6f27ab4734",
+        "type": "tabs",
+        "dimension": 27.20338983050847,
+        "children": [
+          {
+            "id": "203cf74d439c2cd8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98f2e6d9a56ea81c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce65d57f53743f46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b7c5fc6e1e00da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "13c9cc4757d7e80a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Campaña de Villanos/Lugares\"  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ffa63d3af36d8f38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "de317bd698c15860",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafbe412afa34177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f77302d3f4ca38",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_29887869fa28",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 47,
+                    "month": 12,
+                    "year": 1
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_6a1b89d86928"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d737ad6030cf0db2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "ee92fdacfcb2ca1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "04e32c7e7ab0ae6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "2ec0e4df24bba892",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1cd19eec6bfe1286",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "aedb3759952fef9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Razas/Razas Básicas/Elfos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Elfos"
+            }
+          },
+          {
+            "id": "d8603438f4e5e9f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "48d505148d649af3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "a8bd99869c43452f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "33739da170df7569",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "3758f461d6ba7306",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "29d66e77ada8ba54",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "d5952f87ebe0ea87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "a063adb2bbed6946",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "1a9835310ad00a85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "d5b4d275de851ac3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "4635f2f2d9f45a84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "d696c2fa97af966b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "juggl:Juggl global graph": false,
+      "media-extended:Open external media": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "203cf74d439c2cd8",
+  "lastOpenFiles": [
+    "Pj/Personajes Jugables/Kadresh Vol-Arim/Kadresh Vol-Arim.md",
+    "Pj/Personajes Jugables/Kadresh Vol-Arim/Turnos de Kadresh/Turnos de Kadresh.md",
+    "Pj/Pj.md",
+    "Pj/Personajes Jugables/Renata/Renata.md",
+    "Pj/Personajes Jugables/Renata/Turnos de renata/Turnos de Renata.md",
+    "Pj/Personajes Jugables/Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
+    "Pj/Personajes Jugables/Renata/Importante sobre Renata/Importante sobre Renata.md",
+    "Pj/Personajes Jugables/Renata/Puntos fuertes de Renata/Sin nombre",
+    "Pj/Personajes Jugables/Renata/Funciones de Renata/Funciones de Renata.md",
+    "Pj/Personajes Jugables/Lordran/Lordran.md",
+    "Pj/Personajes Jugables/Renata/Turnos de renata",
+    "Pj/Personajes Jugables/Renata/Puntos fuertes de Renata",
+    "Pj/Personajes Jugables/Renata/Importante sobre Renata",
+    "Pj/Personajes Jugables/Renata/Funciones de Renata",
+    "Pj/Personajes Jugables/Lordran/Turnos de Lordran/Turnos de Lordran.md",
+    "Pj/Personajes Jugables/Lordran/Turnos de Lordran",
+    "Pj/Personajes Jugables/Lordran/Importante sobre Lordran/Importante sobre Lordran.md",
+    "Pj/Personajes Jugables/Lordran/Importante sobre Lordran",
+    "Pj/Personajes Jugables/Lordran/Puntos fuertes de Lordran/Puntos fuertes de Lordran.md",
+    "Pj/Personajes Jugables/Lordran/Puntos fuertes de Lordran",
+    "Pj/Personajes Jugables/Lordran/Funciones de Lordran/Funciones de Lordran.md",
+    "Pj/Personajes Jugables/Lordran/Funciones de Lordran",
+    "Pj/Personajes Jugables/Kimmi/Kimmi.md",
+    "Pj/Personajes Jugables/Kimmi/Turnos de Kimmi/Turnos de Kimmi.md",
+    "Pj/Personajes Jugables/Kimmi/Turnos de Kimmi",
+    "Pj/Personajes Jugables/Kimmi/Importante sobre Kimmi/Importante sobre Kimmi.md",
+    "Pj/Personajes Jugables/Kimmi/Puntos fuertes de Kimmi/Puntos fuertes de Kimmi.md",
+    "Pj/Personajes Jugables/Kimmi/Funciones de Kimmi/Funciones de Kimmi.md",
+    "Pj/Personajes Jugables/Gael/Gael.md",
+    "Pj/Personajes Jugables/Gael/Turnos de Gael/Turnos de Gael.md",
+    "Pj/Personajes Jugables/Gael/Puntos fuertes de Gael/Puntos fuertes de Gael.md",
+    "Pj/Personajes Jugables/Gael/Importante sobre Gael/Importante sobre Gael.md",
+    "Pj/Personajes Jugables/Gael/Funciones de Gael/Funciones de Gael.md",
+    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Nueva Orden de Kadresh.md",
+    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Localizaciones de la Nueva Orden/Localizaciones de la Nueva Orden.md",
+    "Pj/Personajes Jugables/Kadresh Vol-Arim/Nueva Orden de Kadresh/Subordinados de la Nueva Orden/Subordinados de la Nueva Orden.md",
+    "Imagenes/Gnomo 1.jpg",
+    "Imagenes/Enano 1.jpg",
+    "Pasted image 20251120175930.jpg",
+    "Imagenes/Pasted image 20251119141408.jpg",
+    "Imagenes/Elfo 1.jpg",
+    "Pasted image 20251119131805.jpg",
+    "Imagenes/Dracónido 1.jpg",
+    "Imagenes/Cambiante 2.jpg",
+    "Imagenes/Cambiante 1.jpg",
+    "Campaña de Villanos/Imagenes/Cambiante 2.jpg"
+  ]
+}

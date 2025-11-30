@@ -1,0 +1,1 @@
+Los humanos poseen una esperanza de vida máxima de 100 años, alcanzando la adultez a los 15 años.

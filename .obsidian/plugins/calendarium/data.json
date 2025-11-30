@@ -1,0 +1,233 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Calendario Kaniano",
+      "description": "Calendario establecido después de la era de las grandes eras y que conserva parte de la historia de la misma.",
+      "id": "ID_29887869fa28",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Krulium",
+            "id": "ID_98fa299acaea"
+          },
+          {
+            "type": "day",
+            "name": "Otahon",
+            "id": "ID_fb1aa81bd908"
+          },
+          {
+            "type": "day",
+            "name": "Azola",
+            "id": "ID_1af90aba4b58"
+          },
+          {
+            "type": "day",
+            "name": "Suyender",
+            "id": "ID_daa9ea892a89"
+          },
+          {
+            "type": "day",
+            "name": "Pusel",
+            "id": "ID_9a1afb7af828"
+          },
+          {
+            "type": "day",
+            "name": "Zolnolle",
+            "id": "ID_1b5a08080a98"
+          },
+          {
+            "type": "day",
+            "name": "Uayecite",
+            "id": "ID_ca3a094aa8aa"
+          },
+          {
+            "type": "day",
+            "name": "Ukreles",
+            "id": "ID_ea4ac88ae94b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Umbra",
+            "length": 16,
+            "id": "ID_293899ca0b58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Borealis",
+            "length": 56,
+            "id": "ID_891b3ab8f909",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Solaris",
+            "length": 32,
+            "id": "ID_68b95babfb78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hyperion",
+            "length": 48,
+            "id": "ID_184bd92be918",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quintessence",
+            "length": 24,
+            "id": "ID_ea1b5ab89a0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Japetus",
+            "length": 72,
+            "id": "ID_a8e86aeac9a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Pangloss",
+            "length": 40,
+            "id": "ID_cb09db38bbd8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aether",
+            "length": 64,
+            "id": "ID_f81a389a9b4a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Glenavy",
+            "length": 24,
+            "id": "ID_8998389aab18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eunomia",
+            "length": 32,
+            "id": "ID_f929c959ea5a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aquila",
+            "length": 24,
+            "id": "ID_4b7b18e9081a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Pneuma",
+            "length": 32,
+            "id": "ID_e858d96a2888",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Zenith",
+            "length": 64,
+            "id": "ID_bbca5bbbea9a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false,
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 651816366,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 47,
+        "month": 1,
+        "year": 1
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "YYYY-MM-DD"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_29887869fa28",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
