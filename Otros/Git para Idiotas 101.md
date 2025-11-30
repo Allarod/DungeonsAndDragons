@@ -13,14 +13,22 @@ git status
 ```
 
 ### Atención.
-Si muestra un mensaje diciendo [Insertar mensaje despues], es que no hay cambios que añadir y no es necesario continuar con los siguientes pasos.
+Si muestra un mensaje diciendo:
+```bash
+On branch master
+nothing to commit, working tree clean
+```
+es que no hay cambios que añadir y no es necesario continuar con los siguientes pasos.
 
 ## Paso 4: Guardar cambios y hacer Commit.
+
+### Paso 4.1: Add.
 Este comando "reconoce" los cambios dentro de la bóveda y permite guardarlos en el futuro commit. 
 ```bash
 git add .
 ```
 
+### Paso 4.2: Commit.
 El commit sirve para confirmar el guardado de los cambios dentro del repositorio, para que el sistema "Se quede tranquilo". Viene adjunto a un mensaje que se debe configurar en cada commit de la siguiente manera:
 
 ```bash

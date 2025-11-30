@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Otros/Git para Idiotas 101.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -441,7 +441,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "11b7c5fc6e1e00da",
+  "active": "9fd1c3f177ac6bbe",
   "lastOpenFiles": [
     "Otros/Git para Idiotas 101.md",
     "Razas/Razas.md",
