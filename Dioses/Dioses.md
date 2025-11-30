@@ -1,1 +1,0 @@
-[[Umbra]], [[Borealis]], [[Solaris]], [[Hyperion]], [[Quintessence]], [[Japetus]], [[Pangloss]], [[Aether]], [[Glenavy]], [[Eunomia]], [[Aquila]], [[Pneuma]] y [[Zenith]]. 

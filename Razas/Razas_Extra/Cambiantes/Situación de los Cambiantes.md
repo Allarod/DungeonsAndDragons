@@ -8,3 +8,4 @@ Por otra parte, entre los cambiantes que consiguieron asentarse se ha desarrolla
 
 En realidad actualmente esta división en la raza importa poco, pues ya no es una imposición de la sociedad y simplemente se mantiene como una forma diferente de vivir, así como la de cualquier otra raza.
 
+[^1]:[[Cambiantes]]

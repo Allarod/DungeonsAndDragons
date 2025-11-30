@@ -8,8 +8,6 @@ La esperanza de vida media de los gnomos es similar a la de los enanos y esta co
 
 En cuanto a su apariencia, son muy parecidos a los enanos, siendo sus mayores diferencia las orejas puntiagudas y la ausencia de barba en las mujeres (también siendo menos abundante en los hombres). La altura es muy parecida (entre 120 y 150 cm) y también es cierto que los gnomos no son tan fornidos como los enanos.
 
-Para conocer mejor a esta raza se recomienda: [[Situación Gnoma]], [[Cultura Gnoma]], [[Escuelas técnicas gnomas]] y [[Grandes inventos Gnomos]].
-
 ![[Gnomo 1.jpg]]
 
 [^1]:[[Razas]]

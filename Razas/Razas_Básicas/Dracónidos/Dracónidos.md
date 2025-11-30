@@ -20,7 +20,6 @@ En cuanto a idiomas todos los dracónidos nacen con el Dracónico en los genes p
 
 La esperanza de vida media de un dracónido ronda alrededor de 80 años, alcanzando la adultez a los 15 años.
 
-Para saber más sobre los dracónidos se recomienda estudiar el siguiente material: [[Personalidades de los dracónidos]], [[Viviendas dracónidas]], [[Cultura dracónida]] y [[Situación de los dracónidos]].
 
 ![[Dracónido 1.jpg]]
 

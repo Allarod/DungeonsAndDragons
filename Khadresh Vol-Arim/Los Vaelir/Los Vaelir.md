@@ -1,2 +1,1 @@
-
-🔐β 0ksxT+ZrSosEs21E4MUX3g/wg5Eoz2pnUmMd+gU8xNUzKvERu1WdY823L39ehqppJubhV4B05/N9ZLELXQonGGKA5oP/HqW6r4AfozTqrO+pgv8EzjY5wWZlGSBRNKLB/30jfMX5We6GXOo9Md6yHcyEpEimrscsVy5oOGkh 🔐
+[^1]:[[Khadresh Vol-Arim]]

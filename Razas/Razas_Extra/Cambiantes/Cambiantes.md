@@ -25,8 +25,6 @@ Existen diferentes tipos de cambiantes, según la maldición que le impusieran a
 
 La esperanza de vida máxima de un cambiante son 100 años, similar a la humana y alcanzan la adultez a los 15 años.
 
-Puedes conocer más de los cambiantes leyendo los siguientes libros: [[Situación de los Cambiantes]], [[Refugios Cambiantes]], [[Tradiciones de los cambiantes]] y [[Curiosidades sobre los cambiantes]].
-
-![[Cambiante 1.jpg]]![[Cambiante 2.jpg]]
+![[Cambiante 1.jpg]]
 
 [^1]:[[Razas]]

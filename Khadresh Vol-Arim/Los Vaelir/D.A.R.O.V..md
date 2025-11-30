@@ -1,1 +1,4 @@
-🔐β wcSieS7ObT9FfjlTyHRa9Bcxg84LKHlv2CwAlVh4RT9mPw2d4JjB/W1+Mo0p/YcDyPwZG0B197+8+9cJ5YEGawFlQFN6u1df1f7F/L60xsj3e/Rqc5jQv7tJVvEcFT4D8Wn4Qmky2PhURXUjz6cmKdKJwox7+0Nhv55y9Mi0UwmKdg== 🔐
+*"Dispositivo Arcano de Respuesta Operativa Vaelir"*
+
+
+[^2]:[[Khurvann Steelmire]]

@@ -11,7 +11,7 @@
       "query": "path:\"Diario de Campaña\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14776954
       }
     },
     {
@@ -76,18 +76,25 @@
         "a": 1,
         "rgb": 14343463
       }
+    },
+    {
+      "query": "path:Otros  ",
+      "color": {
+        "a": 1,
+        "rgb": 8338763
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.25114345114345,
-  "lineSizeMultiplier": 2.51434511434511,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 2.0140625,
   "collapse-forces": true,
-  "centerStrength": 0.501039501039501,
-  "repelStrength": 15.010395010395,
+  "centerStrength": 0.697916666666667,
+  "repelStrength": 13.0208333333333,
   "linkStrength": 1,
-  "linkDistance": 265,
-  "scale": 0.1634837056722041,
+  "linkDistance": 101,
+  "scale": 0.22920135941748893,
   "close": true
 }

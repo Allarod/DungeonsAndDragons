@@ -6,8 +6,6 @@ Son gentes conocidas por su poesía, baile, canto, saber y artes mágicas, y gus
 
 Su esperanza de vida media varia un poco dependiendo de su tipo pero la mayoría de ellas, sino todas, alcanzan los 1000 años, alcanzando la adultez a los 250 años.
 
-Si deseas saber mas sobre los elfos te recomiendo leer los siguientes libros:[[Ciudades élficas]], [[Cultura élfica]], [[Tipos de elfos]] y [[Situación de los elfos]].
-
 ![[Elfo 1.jpg]]
 
 [^1]:[[Razas]]

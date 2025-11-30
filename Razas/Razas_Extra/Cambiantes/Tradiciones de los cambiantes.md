@@ -11,3 +11,5 @@ Los cambiantes nómadas poseen varios rituales, ceremonias y costumbres que se v
 - **Segunda Celebración**: A partir de la edad adulta los cambiantes ya comienzan a buscar posibles parejas a lo largo de sus viajes. Una vez encuentran pareja, buscan a su familia y cuando la encuentran se celebra la unión con una gran fiesta.
 
 En general la presencia de estos cambiantes por pueblos y ciudades es considerada un festival, pues al ser tan únicos y con habilidades tan variadas acaban despertando la curiosidad de todos y suelen dejar ganas de volverlos a ver, por suerte estas familias nómadas tienen por costumbre establecer un circuito de pueblos y ciudades a lo largo del año de manera cíclica así que no es raro que cada año se vuelva a ver a la misma familia haciendo su recorrido.
+
+[^1]:[[Cambiantes]]
