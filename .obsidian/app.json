@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "livePreview": false
+  "livePreview": false,
+  "spellcheck": false
 }
