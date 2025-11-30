@@ -1,0 +1,47 @@
+{
+  "meld-encrypt:meld-encrypt-in-place-decrypt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-in-place-encrypt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-close-and-forget": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-create-new-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "meld-encrypt:meld-encrypt-convert-to-or-from-encrypted-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}

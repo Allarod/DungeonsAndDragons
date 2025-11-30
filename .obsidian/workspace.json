@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otros/Git para Idiotas 101.md",
+                "file": "Otros/Contraseñas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Git para Idiotas 101"
+              "title": "Contraseñas"
             }
           }
         ]
@@ -438,11 +438,22 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false
     }
   },
   "active": "9fd1c3f177ac6bbe",
   "lastOpenFiles": [
+    "Otros/Encriptado para Idiotas 103.md",
+    "Otros/Contraseñas.md",
+    "Prueba 101.md",
+    "Otros/Git para Idiotas 101.md",
+    "Otros/Obsidian para idiotas 102.md",
+    "Nuevo Documento de texto.txt",
     "Npc/Npc.md",
     "Npc/Tom/Tom.md",
     "Npc/Banquero de Claypeak/Banquero de Claypeak.md",
@@ -465,11 +476,6 @@
     "Razas/Razas_Extra/Aasimares/Aasimares.md",
     "Razas/Razas_Básicas/Tieflings/Tieflings.md",
     "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
-    "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
-    "Razas/Razas_Básicas/Orcos/Orcos.md",
-    "Razas/Razas_Básicas/Medianos/Medianos.md",
-    "Razas/Razas_Básicas/Humanos/Humanos.md",
-    "Razas/Razas_Básicas/Gnomos/Gnomos.md",
     "Diario de Campaña",
     "Pj/Personajes Jugables/Renata/Puntos fuertes de Renata/Sin nombre",
     "Renata/Turnos de renata",
@@ -478,7 +484,6 @@
     "Renata/Funciones de Renata",
     "Lordran/Turnos de Lordran",
     "Lordran/Importante sobre Lordran",
-    "Lordran/Puntos fuertes de Lordran",
     "Imagenes/Gnomo 1.jpg",
     "Imagenes/Enano 1.jpg",
     "Pasted image 20251120175930.jpg",
