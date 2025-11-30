@@ -11,7 +11,7 @@
       "query": "path:\"Diario de Campaña\"  ",
       "color": {
         "a": 1,
-        "rgb": 14776954
+        "rgb": 14637144
       }
     },
     {
@@ -81,7 +81,7 @@
       "query": "path:Otros  ",
       "color": {
         "a": 1,
-        "rgb": 8338763
+        "rgb": 14518427
       }
     }
   ],
@@ -95,6 +95,6 @@
   "repelStrength": 13.0208333333333,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.22920135941748893,
+  "scale": 0.4505081176757732,
   "close": true
 }

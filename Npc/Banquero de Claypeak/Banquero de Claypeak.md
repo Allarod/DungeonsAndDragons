@@ -1,5 +1,3 @@
-- Situado en Claypeak.
-- Reunió al grupo y los mando de viaje.
-- Posee sospechosamente demasiada información sobre cada miembro del grupo.
+🔐β nNB5vo63Q6TQyqIGkqXO06OjrOmxryhRmKUKjhmc6TTDgYJdlvAfVjj4O/RjIszrlARwBOkbMNhJlyw4Xno7t6rq1Yu8acLnz/kSyHQ3Ym9uLVibldA2rKr7oU2oSGTMkSYoQ03dpk688fD9DOsN7wkYgqkpVsS1HXRLqhh+TNj0JFYKLjacpeGr8ZG/L2DxUTHIGC1wO3yMbkRFAcIBKgCtWDanVzWb8gC1gPrDykhPdbF/GH55snzZZQk= 🔐
 
 [^1]:[[Npc]]

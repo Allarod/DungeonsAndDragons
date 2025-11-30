@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "76985352d6a33bf4",
-        "type": "tabs",
-        "dimension": 69.82758620689656,
-        "children": [
-          {
-            "id": "f9cc441bdaf92a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Git para Idiotas 101.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Git para Idiotas 101"
-            }
-          }
-        ]
-      },
-      {
         "id": "bd7de542c433b1b2",
         "type": "tabs",
-        "dimension": 30.17241379310345,
         "children": [
           {
             "id": "e547b53768ec4f31",
@@ -326,34 +304,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f9cc441bdaf92a88",
+  "active": "11b7c5fc6e1e00da",
   "lastOpenFiles": [
+    "Npc/Banquero de Claypeak/Banquero de Claypeak.md",
+    "Npc/Tom/Tom.md",
     "Otros/Contraseñas.md",
-    "Khadresh Vol-Arim/Los Vaelir/Vhyrn Durn-Vael.md",
-    "Khadresh Vol-Arim/Los Vaelir/Khurvann Steelmire.md",
-    "Khadresh Vol-Arim/Los Vaelir/Aren Vaelendir.md",
-    "Khadresh Vol-Arim/Los Vaelir/Los Vaelir.md",
-    "Renata/Turnos de Renata/Turnos de Renata.md",
-    "Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
-    "Renata/Importante sobre Renata/Importante sobre Renata.md",
-    "Renata/Funciones de Renata/Funciones de Renata.md",
-    "Renata/Renata.md",
     "Lordran/Turnos de Lordran/Turnos de Lordran.md",
     "Lordran/Puntos fuertes de Lordran/Puntos fuertes de Lordran.md",
     "Lordran/Importante sobre Lordran/Importante sobre Lordran.md",
     "Lordran/Funciones de Lordran/Funciones de Lordran.md",
     "Lordran/Lordran.md",
+    "Kimmi/Kimmi.md",
     "Kimmi/Turnos de Kimmi/Turnos de Kimmi.md",
     "Kimmi/Puntos fuertes de Kimmi/Puntos fuertes de Kimmi.md",
     "Kimmi/Importante sobre Kimmi/Importante sobre Kimmi.md",
     "Kimmi/Funciones de Kimmi/Funciones de Kimmi.md",
-    "Kimmi/Kimmi.md",
-    "Khadresh Vol-Arim/Los Vaelir/D.A.R.O.V..md",
+    "Khadresh Vol-Arim/Turnos de Kadresh/Turnos de Kadresh.md",
+    "Khadresh Vol-Arim/Puntos fuertes de Kadresh/Puntos fuertes de Kadresh.md",
+    "Khadresh Vol-Arim/Los Vaelir/Los Vaelir.md",
     "Khadresh Vol-Arim/Importante sobre Kadresh/Importante sobre Kadresh.md",
     "Khadresh Vol-Arim/Funciones de Kadresh/Funciones de Kadresh.md",
     "Khadresh Vol-Arim/Akhar Drath/Akhar Drath.md",
-    "Khadresh Vol-Arim/Turnos de Kadresh/Turnos de Kadresh.md",
-    "Khadresh Vol-Arim/Puntos fuertes de Kadresh/Puntos fuertes de Kadresh.md",
+    "Khadresh Vol-Arim/Khadresh Vol-Arim.md",
+    "Otros/Encriptado para Idiotas 103.md",
+    "Gael/Turnos de Gael/Turnos de Gael.md",
+    "Gael/Puntos fuertes de Gael/Puntos fuertes de Gael.md",
+    "Gael/Importante sobre Gael/Importante sobre Gael.md",
+    "Gael/Funciones de Gael/Funciones de Gael.md",
+    "Gael/Gael.md",
     "Khadresh Vol-Arim/Khadresh Vol-Arim.mdenc",
     "Sin título.base",
     "Untitled 20251130 033115.mdenc",
