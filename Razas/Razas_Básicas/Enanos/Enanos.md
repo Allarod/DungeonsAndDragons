@@ -9,3 +9,5 @@ La esperanza de vida media de los enanos se encuentra entre los 350 años y los 
 Hallarás más información sobre los enanos en los siguientes tomos: [[Tecnología enana]], [[Gremios enanos]], [[Ciudades enanas]] y [[Situación de los enanos]].
 
 ![[Enano 1.jpg]]
+
+[^1]:[[Razas]]

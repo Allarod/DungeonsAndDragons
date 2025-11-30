@@ -1,0 +1,5 @@
+- Situado en Claypeak.
+- Reunió al grupo y los mando de viaje.
+- Posee sospechosamente demasiada información sobre cada miembro del grupo.
+
+[^1]:[[Npc]]

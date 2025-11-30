@@ -1,1 +1,3 @@
 La esperanza de vida media de un tiefling es algo mayor que la humana siendo esta de 125 años y alcanzando la adultez a los 15 años.
+
+[^1]:[[Razas]]

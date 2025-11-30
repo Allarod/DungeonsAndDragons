@@ -11,3 +11,5 @@ En cuanto a su apariencia, son muy parecidos a los enanos, siendo sus mayores di
 Para conocer mejor a esta raza se recomienda: [[Situación Gnoma]], [[Cultura Gnoma]], [[Escuelas técnicas gnomas]] y [[Grandes inventos Gnomos]].
 
 ![[Gnomo 1.jpg]]
+
+[^1]:[[Razas]]

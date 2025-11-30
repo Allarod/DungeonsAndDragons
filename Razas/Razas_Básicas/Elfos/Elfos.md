@@ -9,3 +9,5 @@ Su esperanza de vida media varia un poco dependiendo de su tipo pero la mayoría
 Si deseas saber mas sobre los elfos te recomiendo leer los siguientes libros:[[Ciudades élficas]], [[Cultura élfica]], [[Tipos de elfos]] y [[Situación de los elfos]].
 
 ![[Elfo 1.jpg]]
+
+[^1]:[[Razas]]

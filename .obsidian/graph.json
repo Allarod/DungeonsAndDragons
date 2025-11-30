@@ -5,41 +5,76 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Dioses  ",
+      "query": "path:\"Diario de Campaña\"  ",
       "color": {
         "a": 1,
-        "rgb": 16716820
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:dioses",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Gael  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Khadresh Vol-Arim\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1496213
+      }
+    },
+    {
+      "query": "path:Kimmi  ",
+      "color": {
+        "a": 1,
+        "rgb": 1683635
+      }
+    },
+    {
+      "query": "path:Lordran  ",
+      "color": {
+        "a": 1,
+        "rgb": 2302149
       }
     },
     {
       "query": "path:Lugares  ",
       "color": {
         "a": 1,
-        "rgb": 237056
+        "rgb": 10037198
       }
     },
     {
-      "query": "path:Otros  ",
+      "query": "path:Npc  ",
       "color": {
         "a": 1,
-        "rgb": 2031360
-      }
-    },
-    {
-      "query": "path:Pj  ",
-      "color": {
-        "a": 1,
-        "rgb": 47349
+        "rgb": 14035400
       }
     },
     {
       "query": "path:Razas  ",
       "color": {
         "a": 1,
-        "rgb": 660223
+        "rgb": 13048346
+      }
+    },
+    {
+      "query": "path:Renata  ",
+      "color": {
+        "a": 1,
+        "rgb": 14343463
       }
     }
   ],
@@ -53,6 +88,6 @@
   "repelStrength": 15.010395010395,
   "linkStrength": 1,
   "linkDistance": 265,
-  "scale": 0.04941343844845181,
-  "close": false
+  "scale": 0.1361674244645219,
+  "close": true
 }
