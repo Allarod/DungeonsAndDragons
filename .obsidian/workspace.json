@@ -6,9 +6,50 @@
       {
         "id": "7efa5565acd91405",
         "type": "tabs",
+        "dimension": 64.11070780399274,
         "children": [
           {
-            "id": "d753c501b3d4796e",
+            "id": "fbc93532c93de4f1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Otros/Obsidian para idiotas 102.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Obsidian para idiotas 102"
+            }
+          },
+          {
+            "id": "8365445cae5f65a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Otros/Git para Idiotas 101.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Git para Idiotas 101"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ff6c8a3ad69c587a",
+        "type": "tabs",
+        "dimension": 35.88929219600726,
+        "children": [
+          {
+            "id": "98b0720a777a5dce",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,23 +59,8 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
-          },
-          {
-            "id": "b173cd56c1424980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Git para Idiotas 101.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Git para Idiotas 101"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,6 +313,16 @@
             "id": "ffa753d998861396",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "8d5af239da670813",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -294,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -329,37 +365,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b173cd56c1424980",
+  "active": "8365445cae5f65a6",
   "lastOpenFiles": [
-    "Razas/Razas_Básicas/Orcos/Ciudades Orcas.md",
-    "Razas/Razas_Básicas/Orcos/Orcos.md",
-    "Razas/Razas_Básicas/Orcos/Situación Orca.md",
-    "Razas/Razas_Básicas/Orcos/Tribus Orcas.md",
-    "Razas/Razas_Básicas/Orcos/Tatuajes Orcos.md",
-    "Razas/Razas_Básicas/Orcos/Tradiciones Orcas.md",
-    "Orco 1.jpg",
-    "Imagenes/Orco 1.png",
-    "Razas/Razas_Básicas/Medianos/Situación Mediana.md",
+    "Razas/Razas_Básicas/Tieflings/Productos infernales Tieflings.md",
+    "Razas/Razas_Básicas/Tieflings/Tieflings.md",
+    "Razas/Razas_Básicas/Tieflings/Situación Tiefling.md",
+    "Razas/Razas_Básicas/Tieflings/Costumbres Tieflings.md",
+    "Razas/Razas_Básicas/Tieflings/Linajes Infernales.md",
+    "Imagenes/Tiefling 2.png",
+    "Imagenes/Tiefling 1.png",
+    "Lugares/Averno/Averno.md",
+    "Lugares/Lugares.md",
+    "Lugares/Averno",
+    "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
+    "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
+    "Razas/Razas_Básicas/Semi-orcos/Costumbres Semi-orcas.md",
+    "Razas/Razas_Básicas/Semi-orcos/Situación Semi-orca.md",
+    "Razas/Razas_Básicas/Semi-orcos/Similitudes Humanas.md",
+    "Razas/Razas_Básicas/Semi-orcos/Similitudes con Orcos.md",
+    "Imagenes/Semi-orco 2.png",
+    "Imagenes/Semi-orco 1.png",
+    "Razas/Razas_Básicas/Semi-elfos/Similitudes con Humanos.md",
+    "Razas/Razas_Básicas/Semi-elfos/Similitudes con Elfos.md",
+    "Razas/Razas_Básicas/Semi-elfos/Tradiciones Semi-elfas.md",
+    "Razas/Razas_Básicas/Semi-elfos/Situación Semi-elfa.md",
     "Razas/Razas_Básicas/Medianos/Medianos.md",
-    "Razas/Razas_Básicas/Medianos/Cultura Mediana.md",
-    "Razas/Razas_Básicas/Medianos/Ciudades Medianas.md",
-    "Razas/Razas_Básicas/Medianos/Tratados Medianos.md",
-    "Razas/Razas_Básicas/Humanos/Ciudades Humanas.md",
+    "Imagenes/Mediano 1.png",
     "Razas/Razas_Básicas/Humanos/Humanos.md",
-    "Razas/Razas_Básicas/Humanos/Situación Humana.md",
-    "Razas/Razas_Básicas/Humanos/Grandes Figuras Humanas.md",
-    "Razas/Razas_Básicas/Humanos/Cultura Humana.md",
-    "Imagenes/Humano 1.png",
+    "Imagenes/Semi-elfo 1.png",
+    "Razas/Razas_Básicas/Elfos/Elfos.md",
+    "Razas/Razas_Básicas/Orcos/Orcos.md",
+    "Otros/Contraseñas.md",
     "Otros/Obsidian para idiotas 102.md",
     "Otros/Git para Idiotas 101.md",
-    "Otros/Encriptado para Idiotas 103.md",
-    "Razas/Razas_Básicas/Gnomos/Gnomos.md",
-    "Npc/Banquero de Claypeak/Banquero de Claypeak.md",
-    "Npc/Tom/Tom.md",
-    "Otros/Contraseñas.md",
-    "Lordran/Turnos de Lordran/Turnos de Lordran.md",
-    "Lordran/Puntos fuertes de Lordran/Puntos fuertes de Lordran.md",
-    "Lordran/Importante sobre Lordran/Importante sobre Lordran.md",
+    "Razas/Razas_Básicas/Orcos/Ciudades Orcas.md",
+    "Razas/Razas_Básicas/Orcos/Situación Orca.md",
+    "Imagenes/Orco 1.jpg",
+    "Imagenes/Orco 1.png",
+    "Imagenes/Humano 1.png",
     "Khadresh Vol-Arim/Khadresh Vol-Arim.mdenc",
     "Sin título.base",
     "Untitled 20251130 033115.mdenc",
@@ -369,13 +412,6 @@
     "Khadresh Vol-Arim/Akhar Drath",
     "Nuevo Documento de texto.txt",
     "Npc/Tom",
-    "Diario de Campaña",
-    "Imagenes/Gnomo 1.jpg",
-    "Imagenes/Enano 1.jpg",
-    "Pasted image 20251120175930.jpg",
-    "Imagenes/Pasted image 20251119141408.jpg",
-    "Imagenes/Elfo 1.jpg",
-    "Pasted image 20251119131805.jpg",
-    "Imagenes/Dracónido 1.jpg"
+    "Imagenes/Gnomo 1.jpg"
   ]
 }

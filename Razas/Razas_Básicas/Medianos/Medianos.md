@@ -4,6 +4,8 @@ Esta raza es una de las más tranquilas y la que ha tenido menos conflicto en su
 
 Dadas sus costumbres en la era anterior los medianos firmaron tratados con el resto de las razas para evitar conflictos y vivir tranquilamente, a cambio se convirtieron en una raza santuario. Se llegó al acuerdo que en cualquier ciudad asentamiento o refugio mediano se permitiría entrar a cualquier raza y se aseguraría su protección, si alguien profanara dicha protección se convertiría en exiliado por su raza y se le haría responsable de romper los acuerdos por lo que no sería bienvenido por ninguna otra raza en ningún lugar del mundo.
 
-La esperanza de vida media de los medianos se haya entre los 100 años y los 150 años, alcanzando la adultez a los 20 años.
+La esperanza de vida media de los medianos se haya entre los 100 años y los 150 años, alcanzando la adultez a los 20 años. Suelen medir entre 100 y 120 centímetros de altura, el resto de su fisionomía es parecida a la humana, a excepción de las orejas algo puntiagudas.
+
+![[Mediano 1.png]]
 
 [^1]:[[Razas]]
