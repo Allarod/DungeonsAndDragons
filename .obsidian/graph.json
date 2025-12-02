@@ -11,11 +11,11 @@
       "query": "path:\"Diario de Campaña\"  ",
       "color": {
         "a": 1,
-        "rgb": 14637144
+        "rgb": 14514296
       }
     },
     {
-      "query": "path:dioses",
+      "query": "path:Dioses  ",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -29,59 +29,59 @@
       }
     },
     {
+      "query": "path:Geografía  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
       "query": "path:\"Khadresh Vol-Arim\"  ",
       "color": {
         "a": 1,
-        "rgb": 1496213
+        "rgb": 6073814
       }
     },
     {
       "query": "path:Kimmi  ",
       "color": {
         "a": 1,
-        "rgb": 1683635
+        "rgb": 6053078
       }
     },
     {
       "query": "path:Lordran  ",
       "color": {
         "a": 1,
-        "rgb": 2302149
-      }
-    },
-    {
-      "query": "path:Lugares  ",
-      "color": {
-        "a": 1,
-        "rgb": 10037198
+        "rgb": 11361494
       }
     },
     {
       "query": "path:Npc  ",
       "color": {
         "a": 1,
-        "rgb": 14035400
-      }
-    },
-    {
-      "query": "path:Razas  ",
-      "color": {
-        "a": 1,
-        "rgb": 13048346
-      }
-    },
-    {
-      "query": "path:Renata  ",
-      "color": {
-        "a": 1,
-        "rgb": 14343463
+        "rgb": 14048429
       }
     },
     {
       "query": "path:Otros  ",
       "color": {
         "a": 1,
-        "rgb": 14518427
+        "rgb": 13966003
+      }
+    },
+    {
+      "query": "path:Razas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14370888
+      }
+    },
+    {
+      "query": "path:Renata  ",
+      "color": {
+        "a": 1,
+        "rgb": 14407245
       }
     }
   ],
@@ -91,10 +91,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 2.0140625,
   "collapse-forces": true,
-  "centerStrength": 0.697916666666667,
+  "centerStrength": 0.75,
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757727,
+  "scale": 0.6316046762907305,
   "close": true
 }

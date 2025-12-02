@@ -4,49 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "7efa5565acd91405",
+        "id": "d48307b185236db3",
         "type": "tabs",
-        "dimension": 64.11070780399274,
-        "children": [
-          {
-            "id": "fbc93532c93de4f1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Obsidian para idiotas 102.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Obsidian para idiotas 102"
-            }
-          },
-          {
-            "id": "8365445cae5f65a6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Git para Idiotas 101.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Git para Idiotas 101"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ff6c8a3ad69c587a",
-        "type": "tabs",
-        "dimension": 35.88929219600726,
         "children": [
           {
             "id": "98b0720a777a5dce",
@@ -72,6 +31,7 @@
       {
         "id": "ce65d57f53743f46",
         "type": "tabs",
+        "dimension": 58.44645550527903,
         "children": [
           {
             "id": "11b7c5fc6e1e00da",
@@ -114,6 +74,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "0a7c38bc22b4bb6f",
+        "type": "tabs",
+        "dimension": 41.55354449472097,
+        "children": [
+          {
+            "id": "48d505148d649af3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "pinned": true,
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,6 +106,16 @@
         "id": "aafbe412afa34177",
         "type": "tabs",
         "children": [
+          {
+            "id": "d8603438f4e5e9f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "c0f77302d3f4ca38",
             "type": "leaf",
@@ -152,6 +141,45 @@
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
+            }
+          },
+          {
+            "id": "1cd19eec6bfe1286",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2ec0e4df24bba892",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "04e32c7e7ab0ae6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           },
           {
@@ -186,97 +214,13 @@
             }
           },
           {
-            "id": "2ec0e4df24bba892",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "1cd19eec6bfe1286",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas las propiedades"
-            }
-          },
-          {
-            "id": "aedb3759952fef9a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Razas/Razas Básicas/Elfos.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Elfos"
-            }
-          },
-          {
-            "id": "d8603438f4e5e9f2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "48d505148d649af3",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "a8bd99869c43452f",
+            "id": "fba3a6ef55930e1b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "33739da170df7569",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "3758f461d6ba7306",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
             }
           },
           {
@@ -290,7 +234,42 @@
             }
           },
           {
-            "id": "a14ba046dd0a5484",
+            "id": "3758f461d6ba7306",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "33739da170df7569",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "674270a31d9d58c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Razas/Razas_Extra/Björns/Björns.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Björns"
+            }
+          },
+          {
+            "id": "f8a0a93578f2701f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -300,27 +279,7 @@
             }
           },
           {
-            "id": "04e32c7e7ab0ae6e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "ffa753d998861396",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "8d5af239da670813",
+            "id": "b383f4f2d686ba2d",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -330,7 +289,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -365,44 +324,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8365445cae5f65a6",
+  "active": "11b7c5fc6e1e00da",
   "lastOpenFiles": [
-    "Razas/Razas_Básicas/Tieflings/Productos infernales Tieflings.md",
-    "Razas/Razas_Básicas/Tieflings/Tieflings.md",
-    "Razas/Razas_Básicas/Tieflings/Situación Tiefling.md",
-    "Razas/Razas_Básicas/Tieflings/Costumbres Tieflings.md",
-    "Razas/Razas_Básicas/Tieflings/Linajes Infernales.md",
+    "Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
+    "Renata/Importante sobre Renata/Importante sobre Renata.md",
+    "Renata/Funciones de Renata/Funciones de Renata.md",
+    "Renata/Renata.md",
+    "Razas/Razas.md",
+    "Npc/Tom/Tom.md",
+    "Npc/Banquero de Claypeak/Banquero de Claypeak.md",
+    "Npc/Npc.md",
+    "Lordran/Lordran.md",
+    "Khadresh Vol-Arim/Khadresh Vol-Arim.md",
+    "Geografía/Continente Tremaine/Reino de Tusk/Sozarock.md",
+    "Geografía/Continente Tremaine/Reino de Tusk/Erieiburn.md",
+    "Geografía/Continente Tremaine/Reino de Tusk/Claypeak.md",
+    "Geografía/Continente Tremaine/Reino de Tusk/Buria.md",
+    "Geografía/Continente Tremaine/Reino de Tusk/Reino de Tusk.md",
+    "Geografía/Continente Tremaine/Continente Tremaine.md",
+    "Geografía/Averno/Averno.md",
+    "Geografía/Geografía.md",
+    "Gael/Gael.md",
+    "Gael/Turnos de Gael/Turnos de Gael.md",
+    "Gael/Puntos fuertes de Gael/Puntos fuertes de Gael.md",
+    "Gael/Importante sobre Gael/Importante sobre Gael.md",
+    "Gael/Funciones de Gael/Funciones de Gael.md",
+    "Diario de Campaña/Sesión 1; Reunión en el Banco..md",
+    "Diario de Campaña/Diario de Campaña.md",
+    "Otros/Lista de Tareas.md",
+    "Imagenes/Björn 2.png",
+    "Imagenes/Björn 1.png",
+    "Imagenes/Aven 1.png",
+    "Imagenes/Aasimar 1.png",
+    "Imagenes/Aasimar 1.png",
+    "Otros/Sesiones",
     "Imagenes/Tiefling 2.png",
     "Imagenes/Tiefling 1.png",
-    "Lugares/Averno/Averno.md",
-    "Lugares/Lugares.md",
-    "Lugares/Averno",
-    "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
-    "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
-    "Razas/Razas_Básicas/Semi-orcos/Costumbres Semi-orcas.md",
-    "Razas/Razas_Básicas/Semi-orcos/Situación Semi-orca.md",
-    "Razas/Razas_Básicas/Semi-orcos/Similitudes Humanas.md",
-    "Razas/Razas_Básicas/Semi-orcos/Similitudes con Orcos.md",
+    "Geografía/Averno",
     "Imagenes/Semi-orco 2.png",
     "Imagenes/Semi-orco 1.png",
-    "Razas/Razas_Básicas/Semi-elfos/Similitudes con Humanos.md",
-    "Razas/Razas_Básicas/Semi-elfos/Similitudes con Elfos.md",
-    "Razas/Razas_Básicas/Semi-elfos/Tradiciones Semi-elfas.md",
-    "Razas/Razas_Básicas/Semi-elfos/Situación Semi-elfa.md",
-    "Razas/Razas_Básicas/Medianos/Medianos.md",
     "Imagenes/Mediano 1.png",
-    "Razas/Razas_Básicas/Humanos/Humanos.md",
-    "Imagenes/Semi-elfo 1.png",
-    "Razas/Razas_Básicas/Elfos/Elfos.md",
-    "Razas/Razas_Básicas/Orcos/Orcos.md",
-    "Otros/Contraseñas.md",
-    "Otros/Obsidian para idiotas 102.md",
-    "Otros/Git para Idiotas 101.md",
-    "Razas/Razas_Básicas/Orcos/Ciudades Orcas.md",
-    "Razas/Razas_Básicas/Orcos/Situación Orca.md",
-    "Imagenes/Orco 1.jpg",
-    "Imagenes/Orco 1.png",
-    "Imagenes/Humano 1.png",
     "Khadresh Vol-Arim/Khadresh Vol-Arim.mdenc",
     "Sin título.base",
     "Untitled 20251130 033115.mdenc",
@@ -410,8 +371,6 @@
     "Khadresh Vol-Arim/Nueva Orden de Kadresh/Localizaciones de la Nueva Orden",
     "Khadresh Vol-Arim/Nueva Orden de Kadresh",
     "Khadresh Vol-Arim/Akhar Drath",
-    "Nuevo Documento de texto.txt",
-    "Npc/Tom",
-    "Imagenes/Gnomo 1.jpg"
+    "Nuevo Documento de texto.txt"
   ]
 }

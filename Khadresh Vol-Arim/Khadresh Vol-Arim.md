@@ -1,3 +1,3 @@
 
-🔐β H+Ax4vxYJHliVaSfsJAKCfkdxycTwcva0S6t8siqVOJCNt27VXUUOiy8bZFiwVKhVJRgzTYfSmvFym1U/89CX6XJEN6TtQCrvd26tF/GRvtqHznfQ7Gq7bUUDopTvZcKrPzpUDlEILhEd9Ay2jtmtnvA2m2zHZU29gjQ0Y/mYHikd7BGGb3UOUu6Kjqm8glbqdNEFxk1mcW0WS36yiCt3DjfEXuo2xvECHYKA28/WSAVS3UxBs15+Z1DagahI/5883DSTBc3VbvqPwS4pHWrK1u+IWPx2omzWCQIy/B6D13EQo8STMLM+xPGh2N96BF39ayUkh9rLLgjhaSg+VP40K5gvEhWtOvXOAXgIzexWuf7vwscWNkgXTQJbJXQ+mC44L1gXIEH35WaxPY1N/pBOi/C1Y0SaBJiIkpsBHm+s5Tf3dNZNDm0hC45T4/Gyps+lt/yMUJQCr0= 🔐
+Dragón gema anciano con ansias de poder y control que formo una organización dracomante con dicho propósito aunque mas tarde fue traicionado por la misma y actualmente se encuentra apresado en el cuerpo de un humano y ha formado una nueva orden ramificada con gente leal para obtener venganza.
 
