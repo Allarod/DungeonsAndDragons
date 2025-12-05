@@ -32,6 +32,10 @@ La esperanza de vida media de los gnomos es similar a la de los enanos y esta co
 
 
 
+# Dioses que adoran
+
+
+
 [^1]:[[Razas]]
 [^2]:[[Cultura Gnoma]]
 [^3]:[[Escuelas técnicas gnomas]]

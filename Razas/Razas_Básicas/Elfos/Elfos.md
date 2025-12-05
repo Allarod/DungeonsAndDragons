@@ -10,17 +10,27 @@ Son gentes conocidas por su poesía, baile, canto, saber y artes mágicas, y gus
 
 # Diversidad
 
-[^5]
+En esta raza existen diferentes tipos de elfos cuyas diferencias no solo las marca su aspecto sino también los cambios en su arquitectura, cultura y valores. Los diferentes tipos de elfos son los listados a continuación: [^5]
+- Alto elfo.
+- Elfo de los bosques
+- Elfo oscuro o Drow
+- Elfo de la noche
+- Elfo marino
+- Elfo de sangre
 
 # Idiomas
 
-
+Los elfos pueden hablar, leer y escribir común y élfico. El élfico es un idioma fluido, con entonaciones sutiles y una gramática intrincada. La literatura élfica es rica y variada, y sus poemas y canciones son famosos entre el resto de razas. Muchos bardos aprenden este idioma para incluir poemas élficos a sus repertorios.
 
 # Fisiología
 
 Su esperanza de vida media varia un poco dependiendo de su tipo pero la mayoría de ellas, sino todas, alcanzan los 1000 años, alcanzando la adultez a los 250 años.
 
 # Psicología y Mentalidad
+
+
+
+# Dioses que adoran
 
 
 

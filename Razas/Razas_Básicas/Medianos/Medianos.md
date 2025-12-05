@@ -21,6 +21,10 @@
 
 
 
+# Dioses que adoran
+
+
+
 Como norma general, los medianos tienen buen corazón y son amables, odian ver a otros sufrir y no toleran la opresión. También son pacíficos y tradicionales, tienen una fuerte tendencia a apoyar a su comunidad y nunca renuncian a la comodidad de sus costumbres.
 
 Esta raza es una de las más tranquilas y la que ha tenido menos conflicto en su historia con una amplia diferencia. Valoran su estilo de vida y son tremendamente acogedores por lo que cruzarse con alguna de sus ciudades y aldeas suele ser visto como encontrar un refugio y un buen descanso.

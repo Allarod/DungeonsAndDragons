@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9898ac183bd7ab",
+        "id": "7b0af7c5bacf6574",
         "type": "tabs",
+        "dimension": 81.47138964577657,
         "children": [
           {
-            "id": "98b0720a777a5dce",
+            "id": "3e46a36d92cef8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linajes dracónidos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b5991b5e2e16439",
+        "type": "tabs",
+        "dimension": 18.52861035422343,
+        "children": [
+          {
+            "id": "c39a5c15c974eb94",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -99,6 +121,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "04e32c7e7ab0ae6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
             "id": "d8603438f4e5e9f2",
             "type": "leaf",
             "state": {
@@ -165,21 +197,12 @@
             }
           },
           {
-            "id": "04e32c7e7ab0ae6e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
             "id": "d737ad6030cf0db2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Linajes dracónidos"
             }
           },
           {
@@ -198,21 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
-            }
-          },
-          {
-            "id": "fba3a6ef55930e1b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Enlaces salientes de Linajes dracónidos"
             }
           },
           {
@@ -236,121 +250,6 @@
             }
           },
           {
-            "id": "33739da170df7569",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "674270a31d9d58c6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Razas/Razas_Extra/Björns/Björns.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Björns"
-            }
-          },
-          {
-            "id": "f8a0a93578f2701f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "b383f4f2d686ba2d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "62defe1ad95c6680",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "7ef84bdaaf21dbf1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "5f9c665aa7ca7dee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "ba208fba34670f93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "97f33adc3fb6a648",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "0b0d3012a086bfd0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "8bd5dec742062119",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
             "id": "5cd27f45d8ecec93",
             "type": "leaf",
             "state": {
@@ -360,12 +259,11 @@
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 21
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 590.5,
+    "width": 332.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -393,14 +291,40 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
       "meld-encrypt:Decrypt at Cursor": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "98b0720a777a5dce",
+  "active": "3e46a36d92cef8ee",
   "lastOpenFiles": [
-    "Razas/Razas_Básicas/Humanos/Humanos.md",
+    "Razas/Razas_Básicas/Elfos/Tipos de elfos.md",
+    "Imagenes/De Razas/De Elfos/Elfo de sangre 1.png",
+    "Imagenes/De Razas/De Elfos/Elfo marino 1.png",
+    "Imagenes/De Razas/De Elfos/Elfo de la noche 1.png",
+    "Razas/Razas_Básicas/Elfos/Elfos.md",
+    "Razas/Razas.md",
+    "Imagenes/De Razas/De Tieflings/Tiefling 1.png",
+    "Imagenes/De Razas/De Tieflings/Tiefling 2.png",
+    "Imagenes/De Razas/De Trolls",
+    "Imagenes/De Razas/De Tauren",
+    "Imagenes/De Razas/De Tabaxis",
+    "Imagenes/De Razas/De Pandaren",
+    "Imagenes/De Razas/De Harengons",
+    "Imagenes/De Razas/De Draeneis",
+    "Imagenes/De Razas/De Aven/Aven 1.png",
+    "Imagenes/De Razas/De Tieflings",
+    "Imagenes/De Razas/De Orcos/De Semi-orcos",
+    "Imagenes/De Razas/De Elfos/De Semi-elfos",
+    "Imagenes/De Razas/De Orcos",
+    "Imagenes/De Razas/De Elfos/Elfo oscuro 1.png",
+    "Pasted image 20251205201326.png",
+    "Pasted image 20251205200914.png",
+    "Pasted image 20251205200733.png",
+    "Otros/Obsidian para idiotas 102.md",
+    "Otros/Git para Idiotas 101.md",
+    "Lordran Thalorien/Lordran Thalorien.md",
+    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
     "Razas/Razas_Básicas/Gnomos/Gnomos.md",
-    "Razas/Razas_Básicas/Gnomos/Tipos de Gnomos.md",
     "Razas/Razas_Básicas/Enanos/Enanos.md",
     "Razas/Razas_Extra/Trolls/Trolls.md",
     "Razas/Razas_Extra/Tauren/Tauren.md",
@@ -417,32 +341,7 @@
     "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
     "Razas/Razas_Básicas/Orcos/Orcos.md",
     "Razas/Razas_Básicas/Medianos/Medianos.md",
-    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
-    "Razas/Razas_Básicas/Elfos/Elfos.md",
-    "Razas/Razas_Básicas/Dracónidos/Cultura dracónida.md",
-    "Razas/Razas_Básicas/Enanos/Tecnología Enana.md",
-    "Razas/Razas_Básicas/Enanos/Ciudades Enanas.md",
-    "Razas/Razas_Básicas/Enanos/Gremios Enanos.md",
-    "Razas/Razas_Básicas/Enanos/Situación Enana.md",
-    "Razas/Razas_Extra/Draeneis",
-    "Razas/Razas_Extra/Tauren",
-    "Razas/Razas_Extra/Pandaren",
-    "Razas/Razas_Extra/Trolls",
-    "Imagenes/Björn 2.png",
-    "Imagenes/Björn 1.png",
-    "Imagenes/Aven 1.png",
-    "Imagenes/Aasimar 1.png",
-    "Imagenes/Aasimar 1.png",
-    "Otros/Sesiones",
-    "Imagenes/Tiefling 2.png",
-    "Imagenes/Tiefling 1.png",
-    "Geografía/Averno",
-    "Imagenes/Semi-orco 2.png",
-    "Imagenes/Semi-orco 1.png",
-    "Imagenes/Mediano 1.png",
-    "Khadresh Vol-Arim/Khadresh Vol-Arim.mdenc",
-    "Sin título.base",
-    "Untitled 20251130 033115.mdenc",
-    "Khadresh Vol-Arim/Nueva Orden de Kadresh/Subordinados de la Nueva Orden"
+    "Razas/Razas_Básicas/Humanos/Humanos.md",
+    "Sin título.canvas"
   ]
 }
