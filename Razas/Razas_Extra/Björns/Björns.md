@@ -1,3 +1,26 @@
+
+
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Son una raza que habita por todo el mundo, pero casi siempre en pequeñas comunidades que intentan relacionarse lo menos posible con el resto de las razas.[^3]
 
 Normalmente habitan en lo profundo de los bosques o montañas y rara vez son vistos fuera de sus asentamientos, sin embargo es posible llegar a verlos en alguna ciudad costera o cerca del agua pues es una raza que valora mucho los productos del mar.[^2]

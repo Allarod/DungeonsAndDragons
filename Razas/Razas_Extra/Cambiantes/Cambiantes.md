@@ -1,3 +1,26 @@
+
+
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Los cambiantes son humanoides con aspecto de bestia que pueden realzar sus rasgos bestiales de manera significativa al entrar en un estado conocido como "El Cambio". 
 
 Descienden de humanos a los que le lanzaron la maldición de transformarse en bestias. 

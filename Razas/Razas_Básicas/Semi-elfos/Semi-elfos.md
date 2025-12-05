@@ -1,3 +1,26 @@
+
+
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Los semielfos tiene algunas características en común con los elfos y otras que son únicas para ellos. Comparten la inclinación caótica de su herencia élfica. Valoran tanto la libertad personal como la expresión de la creatividad y no demuestran ni amor por los líderes ni deseo de tener seguidores. Les irritan las reglas, se ofenden ante las exigencias de los demás y a veces son poco fiables o, al menos, impredecibles.
 
 Para ellos, al no valorar a los líderes, su forma de regirse se basa en los valores del círculo de ancianos de su árbol sagrado según su sangre élfica sin embargo ,a diferencia de los elfos, poseen el deseo de logros inscrito en la sangre humana.

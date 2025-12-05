@@ -1,3 +1,26 @@
+
+![[Mediano 1.png]]
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Como norma general, los medianos tienen buen corazón y son amables, odian ver a otros sufrir y no toleran la opresión. También son pacíficos y tradicionales, tienen una fuerte tendencia a apoyar a su comunidad y nunca renuncian a la comodidad de sus costumbres.
 
 Esta raza es una de las más tranquilas y la que ha tenido menos conflicto en su historia con una amplia diferencia. Valoran su estilo de vida y son tremendamente acogedores por lo que cruzarse con alguna de sus ciudades y aldeas suele ser visto como encontrar un refugio y un buen descanso.
@@ -6,6 +29,5 @@ Dadas sus costumbres en la era anterior los medianos firmaron tratados con el re
 
 La esperanza de vida media de los medianos se haya entre los 100 años y los 150 años, alcanzando la adultez a los 20 años. Suelen medir entre 100 y 120 centímetros de altura, el resto de su fisionomía es parecida a la humana, a excepción de las orejas algo puntiagudas.
 
-![[Mediano 1.png]]
 
 [^1]:[[Razas]]

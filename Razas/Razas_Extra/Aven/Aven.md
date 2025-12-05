@@ -1,3 +1,26 @@
+
+
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Los aven tienen cuerpos, brazos y piernas parecidos a los humanos, junto con alas y cabezas de pájaro. Todos poseen cuerpos delgados con plumas que se extienden desde la cabeza hasta los hombros.
 
 A los Aven les encanta volar por encima de sus enemigos, utilizando su movilidad superior para confundirlos y superarlos.[^4] Sirven como soldados, sacerdotes de batalla y ocasionalmente héroes, pero no se convierten en caballeros excepto en circunstancias verdaderamente excepcionales. 

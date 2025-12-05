@@ -1,3 +1,26 @@
+
+
+
+# Introducción
+
+
+
+# Diversidad
+
+
+
+# Idiomas
+
+
+
+# Fisiología
+
+
+
+# Psicología y Mentalidad
+
+
+
 Así como los tieflings tienen sangre infernal corriendo por sus venas, los aasimars son los descendientes de seres celestiales.
 
 Parecen humanos espléndidos, con el cabello lustroso, la piel sin arrugas y ojos penetrantes. De hecho, los aasimars suelen hacerse pasar por humanos para resolver problemas y defender el bien en el Plano Material sin llamar la atención sobre su linaje celestial.[^4] La diferencia más notoria son sus alas, normalmente ocultas, que demuestran su linaje celestial.[^2]

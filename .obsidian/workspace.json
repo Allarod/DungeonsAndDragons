@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d48307b185236db3",
+        "id": "4d9898ac183bd7ab",
         "type": "tabs",
-        "dimension": 72.79661016949153,
-        "children": [
-          {
-            "id": "7b59f55403ed6eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Razas/Razas_Extra/Draeneis/Draeneis.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Draeneis"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e5b32e9de9cd3bf2",
-        "type": "tabs",
-        "dimension": 27.203389830508474,
         "children": [
           {
             "id": "98b0720a777a5dce",
@@ -53,7 +31,6 @@
       {
         "id": "ce65d57f53743f46",
         "type": "tabs",
-        "dimension": 58.44645550527903,
         "children": [
           {
             "id": "11b7c5fc6e1e00da",
@@ -94,14 +71,7 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          }
-        ]
-      },
-      {
-        "id": "0a7c38bc22b4bb6f",
-        "type": "tabs",
-        "dimension": 41.55354449472097,
-        "children": [
+          },
           {
             "id": "48d505148d649af3",
             "type": "leaf",
@@ -118,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 283.5
   },
   "right": {
     "id": "de317bd698c15860",
@@ -324,6 +294,66 @@
             "id": "7ef84bdaaf21dbf1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "5f9c665aa7ca7dee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "ba208fba34670f93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "97f33adc3fb6a648",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "0b0d3012a086bfd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "8bd5dec742062119",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "5cd27f45d8ecec93",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -331,7 +361,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 21
       }
     ],
     "direction": "horizontal",
@@ -366,8 +396,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7b59f55403ed6eb2",
+  "active": "98b0720a777a5dce",
   "lastOpenFiles": [
+    "Razas/Razas_Básicas/Humanos/Humanos.md",
+    "Razas/Razas_Básicas/Gnomos/Gnomos.md",
+    "Razas/Razas_Básicas/Gnomos/Tipos de Gnomos.md",
+    "Razas/Razas_Básicas/Enanos/Enanos.md",
     "Razas/Razas_Extra/Trolls/Trolls.md",
     "Razas/Razas_Extra/Tauren/Tauren.md",
     "Razas/Razas_Extra/Tabaxis/Tabaxis.md",
@@ -378,26 +412,22 @@
     "Razas/Razas_Extra/Björns/Björns.md",
     "Razas/Razas_Extra/Aven/Aven.md",
     "Razas/Razas_Extra/Aasimars/Aasimars.md",
+    "Razas/Razas_Básicas/Tieflings/Tieflings.md",
+    "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
+    "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
+    "Razas/Razas_Básicas/Orcos/Orcos.md",
+    "Razas/Razas_Básicas/Medianos/Medianos.md",
+    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
+    "Razas/Razas_Básicas/Elfos/Elfos.md",
+    "Razas/Razas_Básicas/Dracónidos/Cultura dracónida.md",
+    "Razas/Razas_Básicas/Enanos/Tecnología Enana.md",
+    "Razas/Razas_Básicas/Enanos/Ciudades Enanas.md",
+    "Razas/Razas_Básicas/Enanos/Gremios Enanos.md",
+    "Razas/Razas_Básicas/Enanos/Situación Enana.md",
     "Razas/Razas_Extra/Draeneis",
     "Razas/Razas_Extra/Tauren",
     "Razas/Razas_Extra/Pandaren",
     "Razas/Razas_Extra/Trolls",
-    "Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
-    "Renata/Importante sobre Renata/Importante sobre Renata.md",
-    "Renata/Funciones de Renata/Funciones de Renata.md",
-    "Renata/Renata.md",
-    "Razas/Razas.md",
-    "Npc/Tom/Tom.md",
-    "Npc/Banquero de Claypeak/Banquero de Claypeak.md",
-    "Npc/Npc.md",
-    "Lordran/Lordran.md",
-    "Khadresh Vol-Arim/Khadresh Vol-Arim.md",
-    "Geografía/Continente Tremaine/Reino de Tusk/Sozarock.md",
-    "Geografía/Continente Tremaine/Reino de Tusk/Erieiburn.md",
-    "Geografía/Continente Tremaine/Reino de Tusk/Claypeak.md",
-    "Geografía/Continente Tremaine/Reino de Tusk/Buria.md",
-    "Geografía/Continente Tremaine/Reino de Tusk/Reino de Tusk.md",
-    "Geografía/Continente Tremaine/Continente Tremaine.md",
     "Imagenes/Björn 2.png",
     "Imagenes/Björn 1.png",
     "Imagenes/Aven 1.png",
