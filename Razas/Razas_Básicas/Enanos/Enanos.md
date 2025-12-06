@@ -1,5 +1,5 @@
 
-![[Enano 1.jpg]]
+![[Enano 2.png]]
 
 # Introducción
 
@@ -11,7 +11,12 @@ Esta raza se especializa en la minería y en la producción de todo tipo de prod
 
 # Diversidad
 
-[^6]
+Esta raza posee una diversidad en la que se ven reflejados distintos tipos de herraje además de alguna diferencia física y, por supuesto, cultural. Los tipos de enanos que presenta este mundo son los listados a continuación: [^6]
+
+- Enanos de las Colinas.
+- Enanos de las Montañas.
+- Enanos de los Volcanes.
+- Enanos de las Profundidades o Duergar.
 
 # Idiomas
 

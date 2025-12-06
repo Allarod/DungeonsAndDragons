@@ -11,6 +11,7 @@ Son gentes conocidas por su poesía, baile, canto, saber y artes mágicas, y gus
 # Diversidad
 
 En esta raza existen diferentes tipos de elfos cuyas diferencias no solo las marca su aspecto sino también los cambios en su arquitectura, cultura y valores. Los diferentes tipos de elfos son los listados a continuación: [^5]
+
 - Alto elfo.
 - Elfo de los bosques
 - Elfo oscuro o Drow

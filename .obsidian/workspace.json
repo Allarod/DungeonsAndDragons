@@ -1,36 +1,36 @@
 {
   "main": {
-    "id": "d1110a53ffde8a9c",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "7b0af7c5bacf6574",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 81.47138964577657,
+        "dimension": 77.47502270663034,
         "children": [
           {
-            "id": "3e46a36d92cef8ee",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
+                "file": "Razas/Razas_Básicas/Enanos/Tipos de Enanos.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linajes dracónidos"
+              "title": "Tipos de Enanos"
             }
           }
         ]
       },
       {
-        "id": "9b5991b5e2e16439",
+        "id": "26973e53bbd5eb38",
         "type": "tabs",
-        "dimension": 18.52861035422343,
+        "dimension": 22.524977293369663,
         "children": [
           {
-            "id": "c39a5c15c974eb94",
+            "id": "55a1d40f791e0b06",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -253,13 +253,49 @@
             "id": "5cd27f45d8ecec93",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "626db5107f651556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Linajes dracónidos"
+            }
+          },
+          {
+            "id": "239daa5c955232ef",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "deac37274fd51aff",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -291,41 +327,44 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt Selection": false,
       "meld-encrypt:Decrypt at Cursor": false,
-      "calendarium:Open Calendarium": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e46a36d92cef8ee",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
+    "Razas/Razas_Básicas/Enanos/Tipos de Enanos.md",
     "Razas/Razas_Básicas/Elfos/Tipos de elfos.md",
-    "Imagenes/De Razas/De Elfos/Elfo de sangre 1.png",
-    "Imagenes/De Razas/De Elfos/Elfo marino 1.png",
-    "Imagenes/De Razas/De Elfos/Elfo de la noche 1.png",
+    "Razas/Razas_Básicas/Enanos/Enanos.md",
+    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
     "Razas/Razas_Básicas/Elfos/Elfos.md",
+    "Imagenes/De Razas/De Enanos/Enano 2.png",
+    "Razas/Razas_Básicas/Dracónidos/Viviendas dracónidas.md",
+    "Imagenes/De Razas/De Dracónidos/Draconido plata 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido oro 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido cobre 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido bronce 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido verde 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido rojo 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido negro 1.png",
+    "Imagenes/De Razas/De Dracónidos/Draconido blanco 1.png",
+    "Dracónido Blanco 1.png",
     "Razas/Razas.md",
-    "Imagenes/De Razas/De Tieflings/Tiefling 1.png",
-    "Imagenes/De Razas/De Tieflings/Tiefling 2.png",
     "Imagenes/De Razas/De Trolls",
     "Imagenes/De Razas/De Tauren",
     "Imagenes/De Razas/De Tabaxis",
     "Imagenes/De Razas/De Pandaren",
     "Imagenes/De Razas/De Harengons",
     "Imagenes/De Razas/De Draeneis",
-    "Imagenes/De Razas/De Aven/Aven 1.png",
     "Imagenes/De Razas/De Tieflings",
     "Imagenes/De Razas/De Orcos/De Semi-orcos",
     "Imagenes/De Razas/De Elfos/De Semi-elfos",
     "Imagenes/De Razas/De Orcos",
-    "Imagenes/De Razas/De Elfos/Elfo oscuro 1.png",
-    "Pasted image 20251205201326.png",
-    "Pasted image 20251205200914.png",
-    "Pasted image 20251205200733.png",
     "Otros/Obsidian para idiotas 102.md",
     "Otros/Git para Idiotas 101.md",
     "Lordran Thalorien/Lordran Thalorien.md",
-    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
     "Razas/Razas_Básicas/Gnomos/Gnomos.md",
-    "Razas/Razas_Básicas/Enanos/Enanos.md",
     "Razas/Razas_Extra/Trolls/Trolls.md",
     "Razas/Razas_Extra/Tauren/Tauren.md",
     "Razas/Razas_Extra/Tabaxis/Tabaxis.md",
@@ -340,8 +379,6 @@
     "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
     "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
     "Razas/Razas_Básicas/Orcos/Orcos.md",
-    "Razas/Razas_Básicas/Medianos/Medianos.md",
-    "Razas/Razas_Básicas/Humanos/Humanos.md",
     "Sin título.canvas"
   ]
 }
