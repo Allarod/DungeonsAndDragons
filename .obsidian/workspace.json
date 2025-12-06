@@ -331,8 +331,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "11b7c5fc6e1e00da",
   "lastOpenFiles": [
+    "Imagenes/De Renata",
+    "Imagenes/De Npc",
+    "Imagenes/De Lordran",
+    "Imagenes/De Kimmi",
+    "Imagenes/De Khadresh",
+    "Imagenes/De Gael",
+    "Imagenes/De Dioses",
+    "Imagenes/De Lugares",
     "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
     "Razas/Razas_Básicas/Enanos/Tipos de Enanos.md",
     "Razas/Razas_Básicas/Elfos/Tipos de elfos.md",
@@ -354,13 +362,6 @@
     "Imagenes/De Razas/De Trolls",
     "Imagenes/De Razas/De Tauren",
     "Imagenes/De Razas/De Tabaxis",
-    "Imagenes/De Razas/De Pandaren",
-    "Imagenes/De Razas/De Harengons",
-    "Imagenes/De Razas/De Draeneis",
-    "Imagenes/De Razas/De Tieflings",
-    "Imagenes/De Razas/De Orcos/De Semi-orcos",
-    "Imagenes/De Razas/De Elfos/De Semi-elfos",
-    "Imagenes/De Razas/De Orcos",
     "Otros/Obsidian para idiotas 102.md",
     "Otros/Git para Idiotas 101.md",
     "Lordran Thalorien/Lordran Thalorien.md",
@@ -378,7 +379,6 @@
     "Razas/Razas_Básicas/Tieflings/Tieflings.md",
     "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
     "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
-    "Razas/Razas_Básicas/Orcos/Orcos.md",
     "Sin título.canvas"
   ]
 }
