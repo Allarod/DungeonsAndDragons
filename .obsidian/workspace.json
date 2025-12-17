@@ -286,6 +286,16 @@
             "id": "58af38bc80232206",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "92ae70ad239857eb",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -293,7 +303,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -331,13 +341,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Otros/Contraseñas.md",
+    "Otros/Guías/Git para Idiotas 101.md",
     "Renata/Turnos de Renata/Turnos de Renata.md",
     "Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
     "Renata/Importante sobre Renata/Importante sobre Renata.md",
     "Renata/Funciones de Renata/Funciones de Renata.md",
     "Renata/Renata.md",
     "Lordran Thalorien/Lordran Thalorien.md",
-    "Otros/Contraseñas.md",
     "Kimmi/Turnos de Kimmi/Turnos de Kimmi.md",
     "Kimmi/Puntos fuertes de Kimmi/Puntos fuertes de Kimmi.md",
     "Kimmi/Importante sobre Kimmi/Importante sobre Kimmi.md",
@@ -356,7 +367,6 @@
     "Khadresh Vol-Arim/Los Vaelir/D.A.R.O.V..md",
     "Khadresh Vol-Arim/Los Vaelir/Aren Vaelendir.md",
     "Khadresh Vol-Arim/Los Vaelir/Los Vaelir.md",
-    "Khadresh Vol-Arim/Importante sobre Kadresh/Importante sobre Kadresh.md",
     "Imagenes/De Dioses/De Magia",
     "Imagenes/De Dioses/De Magia/Pangloss.png",
     "Npc/Lumier",
