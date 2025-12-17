@@ -1,3 +1,3 @@
 
-Dragón gema anciano con ansias de poder y control que formo una organización dracomante con dicho propósito aunque mas tarde fue traicionado por la misma y actualmente se encuentra apresado en el cuerpo de un humano y ha formado una nueva orden ramificada con gente leal para obtener venganza.
+🔐β 💡Darío💡Odhn8ygaZYDOR8XDojcsaEtqVq7Ol42KERmfYT2IaX5us21fN/YPkIQTxuAm/h3eOZag9BmEptHwZiNUNVJl0vAkVZvtxmel1ZLIHbl+qWR9d9E27MqXmHQ9QRNs3SPAat6st6vw70dQgC9e2/kS0tBDhDSxk5XQ4zi0rdJOpfEy6RnRbLCH2FqQR6Liz70wDs+Qe16ckXv/jWmuWML/DDTIIUpavaaaA6RZpK8pm7IYnIGA7V2yfkbATL5mGtElxOqFEPSknACBwtchcrDF4MVtVED4xYa4xE8W1R7ZEMrKwYcofx2QsONBs1ZtcGNF9tG62WBHBDvWQKvznIHFeYA5zRYxJOVHQJTquIcYnP7W0jd9jUxUrEf/TQ1msbjSe7GZy78rQBVmJutrRQ3jtyEZpBneVK3UNAFwr2OxjE+fe/pzB4drRkN8vZ+nhVtOxeZc4Drup7g= 🔐
 

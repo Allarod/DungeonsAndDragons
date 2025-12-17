@@ -11,77 +11,77 @@
       "query": "path:\"Diario de Campaña\"  ",
       "color": {
         "a": 1,
-        "rgb": 14514296
+        "rgb": 0
       }
     },
     {
       "query": "path:Dioses  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14867490
       }
     },
     {
       "query": "path:Gael  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 10279711
       }
     },
     {
       "query": "path:Geografía  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 3398451
       }
     },
     {
       "query": "path:\"Khadresh Vol-Arim\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 3054545
       }
     },
     {
       "query": "path:Kimmi  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 2631880
       }
     },
     {
-      "query": "path:Lordran  ",
+      "query": "path:\"Lordran Thalorien\"  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 9644232
       }
     },
     {
       "query": "path:Npc  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 13185430
       }
     },
     {
       "query": "path:Otros  ",
       "color": {
         "a": 1,
-        "rgb": 13966003
+        "rgb": 16730007
       }
     },
     {
       "query": "path:Razas  ",
       "color": {
         "a": 1,
-        "rgb": 14370888
+        "rgb": 13113625
       }
     },
     {
       "query": "path:Renata  ",
       "color": {
         "a": 1,
-        "rgb": 14407245
+        "rgb": 14128921
       }
     }
   ],
@@ -95,6 +95,6 @@
   "repelStrength": 10.5208333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2778820775749643,
+  "scale": 0.392227561036854,
   "close": true
 }

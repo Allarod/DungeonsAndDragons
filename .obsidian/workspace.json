@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "962cc6771044714b",
         "type": "tabs",
-        "dimension": 77.47502270663034,
         "children": [
           {
             "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Razas/Razas_Básicas/Enanos/Tipos de Enanos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de Enanos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "26973e53bbd5eb38",
-        "type": "tabs",
-        "dimension": 22.524977293369663,
-        "children": [
-          {
-            "id": "55a1d40f791e0b06",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -102,8 +80,8 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "pinned": true,
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           }
         ]
@@ -136,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -163,8 +141,8 @@
                 },
                 "id": "ID_6a1b89d86928"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -245,43 +223,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
-            "id": "5cd27f45d8ecec93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "626db5107f651556",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Linajes dracónidos"
-            }
-          },
-          {
-            "id": "239daa5c955232ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -293,13 +236,68 @@
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
+          },
+          {
+            "id": "8edbdef3f5032931",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "b74e9ce8ab9f7342",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "f320f0118902c43d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "f3e9c997b648044b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diario de Campaña/Sesión 2; Tom y sus Planes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sesión 2; Tom y sus Planes"
+            }
+          },
+          {
+            "id": "58af38bc80232206",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -331,24 +329,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "11b7c5fc6e1e00da",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Imagenes/De Renata",
-    "Imagenes/De Npc",
-    "Imagenes/De Lordran",
-    "Imagenes/De Kimmi",
-    "Imagenes/De Khadresh",
-    "Imagenes/De Gael",
-    "Imagenes/De Dioses",
-    "Imagenes/De Lugares",
-    "Razas/Razas_Básicas/Dracónidos/Linajes dracónidos.md",
-    "Razas/Razas_Básicas/Enanos/Tipos de Enanos.md",
-    "Razas/Razas_Básicas/Elfos/Tipos de elfos.md",
-    "Razas/Razas_Básicas/Enanos/Enanos.md",
-    "Razas/Razas_Básicas/Dracónidos/Dracónidos.md",
-    "Razas/Razas_Básicas/Elfos/Elfos.md",
+    "Renata/Turnos de Renata/Turnos de Renata.md",
+    "Renata/Puntos fuertes de Renata/Puntos fuertes de Renata.md",
+    "Renata/Importante sobre Renata/Importante sobre Renata.md",
+    "Renata/Funciones de Renata/Funciones de Renata.md",
+    "Renata/Renata.md",
+    "Lordran Thalorien/Lordran Thalorien.md",
+    "Otros/Contraseñas.md",
+    "Kimmi/Turnos de Kimmi/Turnos de Kimmi.md",
+    "Kimmi/Puntos fuertes de Kimmi/Puntos fuertes de Kimmi.md",
+    "Kimmi/Importante sobre Kimmi/Importante sobre Kimmi.md",
+    "Kimmi/Funciones de Kimmi/Funciones de Kimmi.md",
+    "Kimmi/Kimmi.md",
+    "Khadresh Vol-Arim/Turnos de Kadresh/Turnos de Kadresh.md",
+    "Khadresh Vol-Arim/Puntos fuertes de Kadresh/Puntos fuertes de Kadresh.md",
+    "Khadresh Vol-Arim/Los Vaelir/Zyn'Kai Leth-Sael.md",
+    "Khadresh Vol-Arim/Los Vaelir/Vhyrn Durn-Vael.md",
+    "Khadresh Vol-Arim/Los Vaelir/Valeth Orus-Haedir.md",
+    "Khadresh Vol-Arim/Los Vaelir/Teryn Volsharr.md",
+    "Khadresh Vol-Arim/Los Vaelir/Shaetha Nyr'voss.md",
+    "Khadresh Vol-Arim/Los Vaelir/Maelvyr Shai-Leth.md",
+    "Khadresh Vol-Arim/Los Vaelir/Khurvann Steelmire.md",
+    "Khadresh Vol-Arim/Los Vaelir/Elowen Vaer-Tal.md",
+    "Khadresh Vol-Arim/Los Vaelir/D.A.R.O.V..md",
+    "Khadresh Vol-Arim/Los Vaelir/Aren Vaelendir.md",
+    "Khadresh Vol-Arim/Los Vaelir/Los Vaelir.md",
+    "Khadresh Vol-Arim/Importante sobre Kadresh/Importante sobre Kadresh.md",
+    "Imagenes/De Dioses/De Magia",
+    "Imagenes/De Dioses/De Magia/Pangloss.png",
+    "Npc/Lumier",
+    "Npc/Keinan",
+    "Npc/Ronan",
+    "Npc/Figbolr",
+    "Npc/Gremio Cresta del Amanecer",
+    "Npc/Gremio Tesorería Dorada",
+    "Npc/Kreigh",
+    "Geografía/Edén",
+    "Geografía/Continente Tremaine/Imperio Liona",
     "Imagenes/De Razas/De Enanos/Enano 2.png",
-    "Razas/Razas_Básicas/Dracónidos/Viviendas dracónidas.md",
     "Imagenes/De Razas/De Dracónidos/Draconido plata 1.png",
     "Imagenes/De Razas/De Dracónidos/Draconido oro 1.png",
     "Imagenes/De Razas/De Dracónidos/Draconido cobre 1.png",
@@ -357,28 +377,6 @@
     "Imagenes/De Razas/De Dracónidos/Draconido rojo 1.png",
     "Imagenes/De Razas/De Dracónidos/Draconido negro 1.png",
     "Imagenes/De Razas/De Dracónidos/Draconido blanco 1.png",
-    "Dracónido Blanco 1.png",
-    "Razas/Razas.md",
-    "Imagenes/De Razas/De Trolls",
-    "Imagenes/De Razas/De Tauren",
-    "Imagenes/De Razas/De Tabaxis",
-    "Otros/Obsidian para idiotas 102.md",
-    "Otros/Git para Idiotas 101.md",
-    "Lordran Thalorien/Lordran Thalorien.md",
-    "Razas/Razas_Básicas/Gnomos/Gnomos.md",
-    "Razas/Razas_Extra/Trolls/Trolls.md",
-    "Razas/Razas_Extra/Tauren/Tauren.md",
-    "Razas/Razas_Extra/Tabaxis/Tabaxis.md",
-    "Razas/Razas_Extra/Pandaren/Pandaren.md",
-    "Razas/Razas_Extra/Harengons/Harengons.md",
-    "Razas/Razas_Extra/Draeneis/Draeneis.md",
-    "Razas/Razas_Extra/Cambiantes/Cambiantes.md",
-    "Razas/Razas_Extra/Björns/Björns.md",
-    "Razas/Razas_Extra/Aven/Aven.md",
-    "Razas/Razas_Extra/Aasimars/Aasimars.md",
-    "Razas/Razas_Básicas/Tieflings/Tieflings.md",
-    "Razas/Razas_Básicas/Semi-orcos/Semi-orcos.md",
-    "Razas/Razas_Básicas/Semi-elfos/Semi-elfos.md",
     "Sin título.canvas"
   ]
 }
