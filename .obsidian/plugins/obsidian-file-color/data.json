@@ -1,0 +1,94 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "TeGbNG3Wrr6vUyiaYUqLQ",
+      "name": "",
+      "value": "#dd1414"
+    },
+    {
+      "id": "PsGEghRrZ8mtJRvgIGJT2",
+      "name": "",
+      "value": "#d9149b"
+    },
+    {
+      "id": "Okmlp_jATV9af2VPJtjQQ",
+      "name": "",
+      "value": "#9e14d2"
+    },
+    {
+      "id": "szQcdkUx7n-_7qfX7idii",
+      "name": "",
+      "value": "#2314d2"
+    },
+    {
+      "id": "SJxCbZJBu7Qy6wg5fypeJ",
+      "name": "",
+      "value": "#129bd2"
+    },
+    {
+      "id": "QYiL_PVIZOqrCUdowWUlc",
+      "name": "",
+      "value": "#26e329"
+    },
+    {
+      "id": "tbirpRtDuPWu4Muqr00pD",
+      "name": "",
+      "value": "#e0e316"
+    },
+    {
+      "id": "Pdhg6ZMtaKe-MtOi6E6qx",
+      "name": "",
+      "value": "#e8a411"
+    },
+    {
+      "id": "l9VSO_zg4Su04-nUR9Q0s",
+      "name": "",
+      "value": "#a27434"
+    },
+    {
+      "id": "Pt8anWbPdjqoqrlsIVls5",
+      "name": "",
+      "value": "#20a117"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Herramientas",
+      "color": "TeGbNG3Wrr6vUyiaYUqLQ"
+    },
+    {
+      "path": "Campaña_Villanos",
+      "color": "PsGEghRrZ8mtJRvgIGJT2"
+    },
+    {
+      "path": "Dioses",
+      "color": "tbirpRtDuPWu4Muqr00pD"
+    },
+    {
+      "path": "Fauna",
+      "color": "Pdhg6ZMtaKe-MtOi6E6qx"
+    },
+    {
+      "path": "Flora",
+      "color": "QYiL_PVIZOqrCUdowWUlc"
+    },
+    {
+      "path": "Geografía",
+      "color": "SJxCbZJBu7Qy6wg5fypeJ"
+    },
+    {
+      "path": "Historia",
+      "color": "szQcdkUx7n-_7qfX7idii"
+    },
+    {
+      "path": "Razas",
+      "color": "Okmlp_jATV9af2VPJtjQQ"
+    },
+    {
+      "path": "Bestiario",
+      "color": "l9VSO_zg4Su04-nUR9Q0s"
+    }
+  ]
+}

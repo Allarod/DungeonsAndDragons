@@ -53,7 +53,8 @@
     "useActualLinks": false,
     "fmtpIntegration": false,
     "titleSize": 1,
-    "isInCallout": false
+    "isInCallout": false,
+    "useWikilinks": true
   },
   "useSubmenus": true,
   "syncMove": true,
@@ -79,7 +80,7 @@
   "excludeFolderDefaultSettings": {
     "type": "folder",
     "path": "",
-    "id": "8d5a8140-f721-4c1c-b508-272cd36deaaa",
+    "id": "77e7f986-a177-490a-b7db-eeebedfd16b4",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -95,7 +96,7 @@
   "excludePatternDefaultSettings": {
     "type": "pattern",
     "path": "",
-    "id": "1ff57876-1a1d-4582-871b-8fbb70b5ecd1",
+    "id": "44ceae09-df90-4b10-829c-a7fcf7251f51",
     "subFolders": true,
     "disableSync": true,
     "disableAutoCreate": true,
@@ -122,8 +123,9 @@
     "afterRestart": true,
     "afterChangingTab": true
   },
-  "firstTimeInsertOverview": false,
+  "firstTimeInsertOverview": true,
   "fvGlobalSettings": {
     "autoUpdateLinks": false
-  }
+  },
+  "hideFolderNoteNameInPath": false
 }

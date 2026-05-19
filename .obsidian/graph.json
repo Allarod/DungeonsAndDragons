@@ -1,100 +1,65 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Diario de Campaña\"  ",
+      "query": "path:Herramientas  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13965850
       }
     },
     {
       "query": "path:Dioses  ",
       "color": {
         "a": 1,
-        "rgb": 14867490
+        "rgb": 15067404
       }
     },
     {
-      "query": "path:Gael  ",
+      "query": "path:Campaña_Villanos  ",
       "color": {
         "a": 1,
-        "rgb": 10279711
+        "rgb": 15403736
       }
     },
     {
       "query": "path:Geografía  ",
       "color": {
         "a": 1,
-        "rgb": 3398451
-      }
-    },
-    {
-      "query": "path:\"Khadresh Vol-Arim\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3054545
-      }
-    },
-    {
-      "query": "path:Kimmi  ",
-      "color": {
-        "a": 1,
-        "rgb": 2631880
-      }
-    },
-    {
-      "query": "path:\"Lordran Thalorien\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9644232
-      }
-    },
-    {
-      "query": "path:Npc  ",
-      "color": {
-        "a": 1,
-        "rgb": 13185430
-      }
-    },
-    {
-      "query": "path:Otros  ",
-      "color": {
-        "a": 1,
-        "rgb": 16730007
+        "rgb": 4055502
       }
     },
     {
       "query": "path:Razas  ",
       "color": {
         "a": 1,
-        "rgb": 13113625
+        "rgb": 8328916
       }
     },
     {
-      "query": "path:Renata  ",
+      "query": "path:Clases  ",
       "color": {
         "a": 1,
-        "rgb": 14128921
+        "rgb": 1673772
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 2.0140625,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.75,
-  "repelStrength": 10.5208333333333,
+  "centerStrength": 0.502604166666667,
+  "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.392227561036854,
+  "scale": 0.13168724279835037,
   "close": true
 }

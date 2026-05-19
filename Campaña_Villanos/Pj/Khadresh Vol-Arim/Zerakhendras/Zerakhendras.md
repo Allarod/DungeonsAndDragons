@@ -1,0 +1,1 @@
+> Forma en la que antaño era conocido [[Khadresh Vol-Arim]] y su verdadero nombre.

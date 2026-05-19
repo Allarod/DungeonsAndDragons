@@ -1,0 +1,1 @@
+> Hierofante miembro de [[Akhar Drath]] que traicionó a [[Zerakhendras]] y lo encerró en un simple cuerpo mortal.

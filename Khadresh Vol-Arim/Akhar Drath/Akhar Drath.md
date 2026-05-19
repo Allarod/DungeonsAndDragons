@@ -1,1 +1,0 @@
-[^1]:[[Khadresh Vol-Arim]]

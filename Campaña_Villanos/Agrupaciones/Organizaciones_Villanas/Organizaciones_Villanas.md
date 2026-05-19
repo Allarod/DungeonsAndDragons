@@ -1,0 +1,1 @@
+>[[Agrupaciones|Agrupación]] creada por una persona para un fin específico y que se organiza en distintas ramas o secciones formadas por individuos públicos o secretos.

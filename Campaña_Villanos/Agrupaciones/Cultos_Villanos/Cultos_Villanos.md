@@ -1,0 +1,1 @@
+>[[Agrupaciones|Agrupación]] que le presta pleitesía y servicio a una entidad no divina y que castigan la duda contra el dogma de su retorcida fe.

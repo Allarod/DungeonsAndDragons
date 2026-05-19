@@ -1,1 +1,1 @@
-[^1]:[[Geografía]]
+#Geografía 
