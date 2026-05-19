@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/Diario/2026-05-19.md",
-                "mode": "preview",
+                "file": "Herramientas/Guías/Git para idiotas 102.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "Git para idiotas 102"
             }
           }
         ],
@@ -239,8 +239,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ef543788ac90a3d1",
+  "active": "d9847330fd5cb205",
   "lastOpenFiles": [
+    "Herramientas/Guías/Obsidian para idiotas 101.md",
+    "Herramientas/Guías/Git para idiotas 102.md",
     "Herramientas/Diario/2026-05-19.md",
     "Campaña_Villanos/Agrupaciones/Cultos_Villanos/Cultos_Villanos.md",
     "Herramientas/Tareas.md",
@@ -256,7 +258,6 @@
     "Campaña_Villanos/Agrupaciones/Organizaciones_Villanas/Akhar Drath/Círculo Íntimo",
     "Campaña_Villanos/Agrupaciones/Cultos_Villanos/Los Seguidores del Eterno/Los Seguidores del Eterno.md",
     "Campaña_Villanos/Agrupaciones/Organizaciones_Villanas/Akhar Drath",
-    "Herramientas/Guías/Obsidian para idiotas 101.md",
     "Clases/Artífice/Artífice.md",
     "Clases/Pícaro/Pícaro.md",
     "Clases/Artífice",
@@ -275,7 +276,6 @@
     "Clases/Druida/Druida.md",
     "Clases/Explorador",
     "Clases/Clérigo/Clérigo.md",
-    "Clases/Bardo/Bardo.md",
-    "Clases/Bárbaro/Bárbaro.md"
+    "Clases/Bardo/Bardo.md"
   ]
 }
