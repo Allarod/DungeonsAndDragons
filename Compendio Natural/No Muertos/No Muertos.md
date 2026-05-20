@@ -1,0 +1,1 @@
+>Entidades que alguna vez estuvieron vivas pero que han sido reanimadas mediante nigromancia o maldiciones que impiden el descanso de su alma. Su existencia es una afrenta al ciclo natural de la vida y la muerte. Carecen de necesidades biológicas y, a menudo, de moralidad, impulsados únicamente por el hambre de vida, el odio a los vivos o las órdenes de sus amos oscuros.

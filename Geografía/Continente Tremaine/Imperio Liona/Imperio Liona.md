@@ -1,1 +1,0 @@
-> Situado en el [[Continente Tremaine]]

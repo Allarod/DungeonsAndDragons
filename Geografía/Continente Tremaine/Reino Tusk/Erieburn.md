@@ -1,1 +1,0 @@
-> Ciudad situada al Oeste del [[Reino Tusk]] y ampliamente conocida bajo el apodo de *Puerta del Reino*, pues todo camino para entrar o salir del reino pasa por ella. 

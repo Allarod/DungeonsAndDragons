@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,42 +11,98 @@
       "query": "path:Herramientas  ",
       "color": {
         "a": 1,
-        "rgb": 13965850
+        "rgb": 0
       }
     },
     {
-      "query": "path:Dioses  ",
+      "query": "path:Astronomía  ",
       "color": {
         "a": 1,
-        "rgb": 15067404
+        "rgb": 2303
       }
     },
     {
-      "query": "path:Campaña_Villanos  ",
+      "query": "path:Atlas  ",
       "color": {
         "a": 1,
-        "rgb": 15403736
+        "rgb": 8347689
       }
     },
     {
-      "query": "path:Geografía  ",
+      "query": "path:\"Compendio Natural\"  ",
       "color": {
         "a": 1,
-        "rgb": 4055502
+        "rgb": 1304339
       }
     },
     {
-      "query": "path:Razas  ",
+      "query": "path:\"Cultura, Usos y Costumbres\"  ",
       "color": {
         "a": 1,
-        "rgb": 8328916
+        "rgb": 7458814
       }
     },
     {
-      "query": "path:Clases  ",
+      "query": "path:Facciones  ",
       "color": {
         "a": 1,
-        "rgb": 1673772
+        "rgb": 16514648
+      }
+    },
+    {
+      "query": "path:Historia  ",
+      "color": {
+        "a": 1,
+        "rgb": 693248
+      }
+    },
+    {
+      "query": "path:Literatura  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Magia  ",
+      "color": {
+        "a": 1,
+        "rgb": 16738019
+      }
+    },
+    {
+      "query": "path:Mitología  ",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
+      "query": "path:Personajes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16648971
+      }
+    },
+    {
+      "query": "path:\"Razas Inteligentes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 44427
+      }
+    },
+    {
+      "query": "path:Religión  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:Terminología  ",
+      "color": {
+        "a": 1,
+        "rgb": 11730944
       }
     }
   ],
@@ -60,6 +116,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13168724279835037,
+  "scale": 0.13168724279834554,
   "close": true
 }

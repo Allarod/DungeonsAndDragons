@@ -1,1 +1,0 @@
-> Ciudad situada al Este del [[Reino Tusk]] y su capital, es la ciudad más grande de todo el reino.

@@ -36,7 +36,35 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Campaña_Villanos/Diario_Villanos",
+        "pattern": "Facciones/Los Vaelirr",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Facciones/Los Vaelirr/Los Vaelendir",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Facciones/Los Seguidores del Eterno",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Mitología/Divinidades/Primeras Entidades",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Atlas/Mapas",
         "patternType": "STRICT"
       }
     ],

@@ -3,92 +3,127 @@
   "colorBackground": true,
   "palette": [
     {
-      "id": "TeGbNG3Wrr6vUyiaYUqLQ",
+      "id": "zxtc9f8EyLo3PMmhkgsjf",
       "name": "",
-      "value": "#dd1414"
+      "value": "#ff0000"
     },
     {
-      "id": "PsGEghRrZ8mtJRvgIGJT2",
+      "id": "So7yS1uZkCdxFDGu2m5lE",
       "name": "",
-      "value": "#d9149b"
+      "value": "#b30000"
     },
     {
-      "id": "Okmlp_jATV9af2VPJtjQQ",
+      "id": "5CdUdNmL-zhzPcMqU_GmB",
       "name": "",
-      "value": "#9e14d2"
+      "value": "#fe39ee"
     },
     {
-      "id": "szQcdkUx7n-_7qfX7idii",
+      "id": "Nm5A2GoHaihCCi55CCf4-",
       "name": "",
-      "value": "#2314d2"
+      "value": "#9900ff"
     },
     {
-      "id": "SJxCbZJBu7Qy6wg5fypeJ",
+      "id": "RZKjwoxyA4A8ncAYAHGg_",
       "name": "",
-      "value": "#129bd2"
+      "value": "#0008ff"
     },
     {
-      "id": "QYiL_PVIZOqrCUdowWUlc",
+      "id": "tOJwuwz5g_LO9wnpY3W30",
       "name": "",
-      "value": "#26e329"
+      "value": "#389fff"
     },
     {
-      "id": "tbirpRtDuPWu4Muqr00pD",
+      "id": "dueElnKk3UWsJb089tN9Q",
       "name": "",
-      "value": "#e0e316"
+      "value": "#00fbff"
     },
     {
-      "id": "Pdhg6ZMtaKe-MtOi6E6qx",
+      "id": "3tVvXGOPHy_cINjrE9Qyl",
       "name": "",
-      "value": "#e8a411"
+      "value": "#008f8c"
     },
     {
-      "id": "l9VSO_zg4Su04-nUR9Q0s",
+      "id": "zrAcl5s0IVDHuYIjFZUW0",
       "name": "",
-      "value": "#a27434"
+      "value": "#00ff04"
     },
     {
-      "id": "Pt8anWbPdjqoqrlsIVls5",
+      "id": "PfuzlY2wBq43A9MPP-Q3q",
       "name": "",
-      "value": "#20a117"
+      "value": "#009e20"
+    },
+    {
+      "id": "NWLDVd32YAuus5zulLgU7",
+      "name": "",
+      "value": "#fbff00"
+    },
+    {
+      "id": "WtXpryIbdi8gagfhRxyYn",
+      "name": "",
+      "value": "#ffa200"
+    },
+    {
+      "id": "MGY69gvHkkkNAUreZ8hZ2",
+      "name": "",
+      "value": "#7f6029"
     }
   ],
   "fileColors": [
     {
-      "path": "Herramientas",
-      "color": "TeGbNG3Wrr6vUyiaYUqLQ"
+      "path": "Astronomía",
+      "color": "RZKjwoxyA4A8ncAYAHGg_"
     },
     {
-      "path": "Campaña_Villanos",
-      "color": "PsGEghRrZ8mtJRvgIGJT2"
+      "path": "Atlas",
+      "color": "MGY69gvHkkkNAUreZ8hZ2"
     },
     {
-      "path": "Dioses",
-      "color": "tbirpRtDuPWu4Muqr00pD"
+      "path": "Compendio Natural",
+      "color": "zrAcl5s0IVDHuYIjFZUW0"
     },
     {
-      "path": "Fauna",
-      "color": "Pdhg6ZMtaKe-MtOi6E6qx"
+      "path": "Magia",
+      "color": "5CdUdNmL-zhzPcMqU_GmB"
     },
     {
-      "path": "Flora",
-      "color": "QYiL_PVIZOqrCUdowWUlc"
-    },
-    {
-      "path": "Geografía",
-      "color": "SJxCbZJBu7Qy6wg5fypeJ"
+      "path": "Mitología",
+      "color": "Nm5A2GoHaihCCi55CCf4-"
     },
     {
       "path": "Historia",
-      "color": "szQcdkUx7n-_7qfX7idii"
+      "color": "PfuzlY2wBq43A9MPP-Q3q"
     },
     {
-      "path": "Razas",
-      "color": "Okmlp_jATV9af2VPJtjQQ"
+      "path": "Literatura",
+      "color": "dueElnKk3UWsJb089tN9Q"
     },
     {
-      "path": "Bestiario",
-      "color": "l9VSO_zg4Su04-nUR9Q0s"
+      "path": "Religión",
+      "color": "WtXpryIbdi8gagfhRxyYn"
+    },
+    {
+      "path": "Facciones",
+      "color": "NWLDVd32YAuus5zulLgU7"
+    },
+    {
+      "path": "Cultura, Usos y Costumbres",
+      "color": "tOJwuwz5g_LO9wnpY3W30"
+    },
+    {
+      "path": "Personajes",
+      "color": "zxtc9f8EyLo3PMmhkgsjf"
+    },
+    {
+      "path": "Razas Inteligentes",
+      "color": "3tVvXGOPHy_cINjrE9Qyl"
+    },
+    {
+      "path": "/",
+      "color": "So7yS1uZkCdxFDGu2m5lE"
+    },
+    {
+      "path": "Terminología",
+      "color": "So7yS1uZkCdxFDGu2m5lE"
     }
   ]
 }
