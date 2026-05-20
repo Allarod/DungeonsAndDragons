@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "a64db32050dcbbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Diario/2026-05-20.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-20"
+            }
+          },
+          {
             "id": "e2c915485e879957",
             "type": "leaf",
             "state": {
@@ -69,7 +83,8 @@
               "title": "Razas Inteligentes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas/Guías/Git para idiotas 102.md",
+                "file": "Herramientas/Diario/2026-05-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Git para idiotas 102"
+              "title": "Esquema de 2026-05-20"
             }
           },
           {
@@ -233,43 +248,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d9847330fd5cb205",
+  "active": "a64db32050dcbbb5",
   "lastOpenFiles": [
-    "Razas Inteligentes/Razas Inteligentes.md",
-    "Herramientas/Diario/2026-05-20.md",
+    "Razas Inteligentes/Razas Foráneas/Tauren/Atributos_Tauren.md",
     "Herramientas/Tareas.md",
-    "Herramientas/Herramientas.md",
-    "Herramientas/Diario/2026-05-19.md",
-    "Herramientas/Diario/Diario.md",
-    "Herramientas/Guías/Obsidian para idiotas 101.md",
-    "Herramientas/Guías/Git para idiotas 102.md",
-    "Compendio Natural/Cienos/Cienos.md",
-    "Terminología/Unidades de Medida/Unidades de Medida.md",
-    "Terminología/Títulos y Rangos/Títulos y Rangos.md",
-    "Terminología/Unidades de Medida",
-    "Terminología/Jerga y Expresiones/Jerga y Expresiones.md",
-    "Terminología/Títulos y Rangos",
-    "Terminología/Sin título.md",
-    "Terminología/Conceptos Clave/Conceptos Clave.md",
-    "Terminología/Jerga y Expresiones",
-    "Terminología/Terminología.md",
-    "Terminología/Conceptos Clave",
-    "Religión/Teología y Dogma/Teología y Dogma.md",
-    "Terminología",
-    "Religión/Ritos y Liturgia/Ritos y Liturgia.md",
-    "Religión/Teología y Dogma",
-    "Religión/Iglesias y Órdenes Mayores/Iglesias y Órdenes Mayores.md",
-    "Religión/Ritos y Liturgia",
-    "Religión/Cultos y Sectas/Cultos y Sectas.md",
-    "Religión/Iglesias y Órdenes Mayores",
-    "Religión/Religión.md",
-    "Religión/Cultos y Sectas",
-    "Astronomía/Astronomía.md",
-    "Compendio Natural/Compendio Natural.md",
-    "Mitología/Divinidades/Primeras Entidades/Glenavy.md",
-    "Religión",
-    "Razas Inteligentes/Razas Originales/Razas Originales.md",
-    "Razas Inteligentes/Razas Foráneas/Razas Foráneas.md",
-    "Personajes/Personajes.md"
+    "Razas Inteligentes/Razas Foráneas/Tauren/Tauren.md",
+    "Razas Inteligentes/Razas Foráneas/Tabaxis/Atributos_Tabaxis.md",
+    "Razas Inteligentes/Razas Foráneas/Tauren",
+    "Razas Inteligentes/Razas Foráneas/Tabaxis/Tabaxis.md",
+    "Razas Inteligentes/Razas Foráneas/Pandaren/Atributos_Pandaren.md",
+    "Razas Inteligentes/Razas Foráneas/Tabaxis",
+    "Razas Inteligentes/Razas Foráneas/Pandaren/Pandaren.md",
+    "Razas Inteligentes/Razas Foráneas/Harengons/Atributos_Harengons.md",
+    "Razas Inteligentes/Razas Foráneas/Pandaren",
+    "Razas Inteligentes/Razas Foráneas/Harengons/Harengons.md",
+    "Razas Inteligentes/Razas Foráneas/Cambiantes/Cambiantes.md",
+    "Razas Inteligentes/Razas Foráneas/Harengons",
+    "Razas Inteligentes/Razas Foráneas/Björns/Atributos_Björns.md",
+    "Razas Inteligentes/Razas Foráneas/Cambiantes",
+    "Razas Inteligentes/Razas Foráneas/Björns/Björns.md",
+    "Razas Inteligentes/Razas Foráneas/Avens/Avens.md",
+    "Razas Inteligentes/Razas Foráneas/Avens/Atributos_Aven.md",
+    "Razas Inteligentes/Razas Foráneas/Björns",
+    "Razas Inteligentes/Razas Originales/Tieflings/Atributos_Tieflings.md",
+    "Razas Inteligentes/Razas Foráneas/Avens",
+    "Razas Inteligentes/Razas Originales/Semi-Orcos/Atributos_Semi-Orcos.md",
+    "Razas Inteligentes/Razas Originales/Semi-Elfos/Atributos_Semi-Elfos.md",
+    "Razas Inteligentes/Razas Originales/Orcos/Atributos_Orcos.md",
+    "Razas Inteligentes/Razas Originales/Medianos/Atributos_Medianos.md",
+    "Razas Inteligentes/Razas Originales/Humanos/Atributos_Humanos.md",
+    "Razas Inteligentes/Razas Originales/Goliats/Atributos_Goliats.md",
+    "Razas Inteligentes/Razas Originales/Gnomos/Atributos_Gnomos.md",
+    "Razas Inteligentes/Razas Originales/Enanos/Atributos_Enanos.md",
+    "Razas Inteligentes/Razas Originales/Elfos/Atributos_Elfos.md",
+    "Razas Inteligentes/Razas Originales/Dracónidos/Atributos_Dracónidos.md",
+    "Razas Inteligentes/Razas Originales/Dracónidos/Dracónidos.md",
+    "Razas Inteligentes/Razas Originales/Aasimars/Atributos_Aasimars",
+    "Razas Inteligentes/Razas Originales/Goliats",
+    "Razas Inteligentes/Razas Originales/Tieflings"
   ]
 }

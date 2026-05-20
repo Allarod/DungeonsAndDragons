@@ -10,7 +10,7 @@ Los eruditos dividen a los pueblos civilizados en dos grandes troncos, basándos
 
 #### [[Razas Originales|Los Linajes Autóctonos (Razas Originales)]]
 
-Conocidos como los "Hijos del Mundo", este grupo abarca a las especies que nacieron y evolucionaron en este **Mundo del Caos** desde el principio de los tiempos. Sus culturas son las que cimentaron las primeras naciones y sus cuerpos poseen una sintonía natural con la magia. Representan los grupos demográficos dominantes, abarcando desde la versatilidad y ambición de los **Humanos**, que se extendieron por todos los continentes, hasta la especialización extrema de los **Aven** en los entornos montañosos. Son, por derecho de nacimiento y adaptación, los dueños históricos de la tierra.
+Conocidos como los "Hijos del Mundo", este grupo abarca a las especies que nacieron y evolucionaron en este **Mundo del Caos** desde el principio de los tiempos. Sus culturas son las que cimentaron las primeras naciones y sus cuerpos poseen una sintonía natural con la magia. Representan los grupos demográficos dominantes, abarcando desde la versatilidad y ambición de los **Humanos**, que se extendieron por todos los continentes, hasta la especialización extrema de los **Goliat** en los entornos montañosos. Son, por derecho de nacimiento y adaptación, los dueños históricos de la tierra.
 
 #### [[Razas Foráneas|Los Llegados (Razas Foráneas)]]
 
