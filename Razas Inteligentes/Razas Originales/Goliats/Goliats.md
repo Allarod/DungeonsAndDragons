@@ -1,4 +1,5 @@
-
+Los goliats son descendientes lejanos de los gigantes y sobrepasan en altura a la mayoría de las especies. Todos los goliats disfrutan de los favores de los primeros gigantes, que se manifiestan a modo de diversos beneficios sobrenaturales, como la capacidad de crecer de forma súbita y alcanzar temporalmente la altura de sus parientes gigantescos.
+Los goliats tienen características físicas que evocan a sus antepasados. Por ejemplo, algunos goliats se parecen a los gigantes de piedra, mientras que otros tienen semejanzas con los gigantes de fuego. Independientemente de sus parentescos, los goliats se han forjado su propio camino en el mundo, sin la carga de los conflictos internos que han asolado a los gigantes durante siglos, y aspiran a encumbrarse por encima de sus antepasados.
 
 ---
 [^1]:[[Razas Originales]]

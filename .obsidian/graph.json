@@ -46,7 +46,7 @@
       "query": "path:Facciones  ",
       "color": {
         "a": 1,
-        "rgb": 16514648
+        "rgb": 14870016
       }
     },
     {
@@ -116,6 +116,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2588386562181453,
+  "scale": 0.1316872427983449,
   "close": true
 }
