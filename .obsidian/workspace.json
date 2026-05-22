@@ -47,8 +47,8 @@
               "type": "markdown",
               "state": {
                 "file": "Herramientas/Tareas.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -62,31 +62,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/Diario/2026-05-20.md",
-                "mode": "source",
-                "source": false
+                "file": "Herramientas/Diario/2026-05-22.md",
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-05-20"
-            }
-          },
-          {
-            "id": "a64db32050dcbbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Razas Inteligentes/Razas Originales/Humanos/Humanos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Humanos"
+              "title": "2026-05-22"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +138,7 @@
       {
         "id": "c9e85b589ce3130b",
         "type": "tabs",
-        "dimension": 72.55747126436782,
+        "dimension": 72.27011494252874,
         "children": [
           {
             "id": "ef543788ac90a3d1",
@@ -248,7 +234,7 @@
       {
         "id": "50d99d642c9ef0b1",
         "type": "tabs",
-        "dimension": 27.442528735632187,
+        "dimension": 27.729885057471265,
         "children": [
           {
             "id": "de2c0c4b99165b72",
@@ -279,43 +265,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a64db32050dcbbb5",
+  "active": "b645af6236a1063f",
   "lastOpenFiles": [
-    "Herramientas/Diario/2026-05-20.md",
+    "Personajes/Figuras_Importantes/Jugadores/Khadresh Vol-Arim/Khadresh Vol-Arim.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Aren Vaelendir.md",
+    "Facciones/Los Vaelirr/Los Vaelirr.md",
+    "Terminología/Conceptos Clave/Círculo Íntimo.md",
     "Herramientas/Tareas.md",
-    "Razas Inteligentes/Razas Originales/Humanos/Humanos.md",
-    "Razas Inteligentes/Razas Originales/Goliats/Goliats.md",
-    "Razas Inteligentes/Razas Originales/Gnomos/Gnomos.md",
-    "Razas Inteligentes/Razas Originales/Enanos/Enanos.md",
-    "Razas Inteligentes/Razas Originales/Elfos/Elfos.md",
-    "Razas Inteligentes/Razas Originales/Dracónidos/Dracónidos.md",
-    "Razas Inteligentes/Razas Originales/Aasimars/Atributos_Aasimars.md",
-    "Razas Inteligentes/Razas Originales/Aasimars/Aasimars.md",
-    "Razas Inteligentes/Razas Inteligentes.md",
-    "Razas Inteligentes/Razas Foráneas/Tauren/Atributos_Tauren.md",
-    "Razas Inteligentes/Razas Foráneas/Tauren/Tauren.md",
-    "Razas Inteligentes/Razas Foráneas/Tabaxis/Atributos_Tabaxis.md",
-    "Razas Inteligentes/Razas Foráneas/Tauren",
-    "Razas Inteligentes/Razas Foráneas/Tabaxis/Tabaxis.md",
-    "Razas Inteligentes/Razas Foráneas/Pandaren/Atributos_Pandaren.md",
-    "Razas Inteligentes/Razas Foráneas/Tabaxis",
-    "Razas Inteligentes/Razas Foráneas/Pandaren/Pandaren.md",
-    "Razas Inteligentes/Razas Foráneas/Harengons/Atributos_Harengons.md",
-    "Razas Inteligentes/Razas Foráneas/Pandaren",
-    "Razas Inteligentes/Razas Foráneas/Harengons/Harengons.md",
-    "Razas Inteligentes/Razas Foráneas/Cambiantes/Cambiantes.md",
-    "Razas Inteligentes/Razas Foráneas/Harengons",
-    "Razas Inteligentes/Razas Foráneas/Björns/Atributos_Björns.md",
-    "Razas Inteligentes/Razas Foráneas/Cambiantes",
-    "Razas Inteligentes/Razas Foráneas/Björns/Björns.md",
-    "Razas Inteligentes/Razas Foráneas/Avens/Avens.md",
-    "Razas Inteligentes/Razas Foráneas/Avens/Atributos_Aven.md",
-    "Razas Inteligentes/Razas Foráneas/Björns",
-    "Razas Inteligentes/Razas Originales/Tieflings/Atributos_Tieflings.md",
-    "Razas Inteligentes/Razas Foráneas/Avens",
-    "Razas Inteligentes/Razas Originales/Semi-Orcos/Atributos_Semi-Orcos.md",
-    "Razas Inteligentes/Razas Originales/Aasimars/Atributos_Aasimars",
-    "Razas Inteligentes/Razas Originales/Goliats",
-    "Razas Inteligentes/Razas Originales/Tieflings"
+    "Herramientas/Diario/2026-05-22.md",
+    "Herramientas/Diario/2026-05-19.md",
+    "Personajes/Personajes.md",
+    "Personajes/Figuras_Importantes/Zerakhendras.md",
+    "Facciones/Akhar Drath/Círculo Íntimo",
+    "Facciones/Akhar Drath/Círculo Íntimo de Akhar Drath/Círculo Íntimo de Akhar Drath.md",
+    "Facciones/Akhar Drath/Akhar Drath.md",
+    "Personajes/Figuras_Importantes/Jugadores/Renata Gedaer Uruir/Renata Gedaer Uruir.md",
+    "Facciones/Los Vaelirr/La Organización de Renata Gedaer Uruir/La Organización de Renata Gedaer Uruir.md",
+    "Facciones/Los Vaelirr/El Velo de Alabastro/El Velo de Alabastro.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Zyn’Kai Leth-Sael.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Vhyrn Durn-Vael.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Valeth Orus-Haedir.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Teryn Volsharr.md",
+    "Facciones/Los Vaelirr/Los Orum-Hein/Los Orum-Hein.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Shaetha Nyr’voss.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Maelvyr Shai-Leth.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Elowen Vaer-Tal.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Khurvann Steelmire/Khurvann Steelmire.md",
+    "Facciones/Los Vaelirr/Los Argentarios/Los Argentarios.md",
+    "Facciones/Los Vaelirr/Los Vhal'Shai/Los Vhal'Shai.md",
+    "Facciones/Los Vaelirr/Los Vaelendir/Los Vaelendir.md",
+    "Facciones/Los Vaelirr/Círculo Íntimo/Khurvann Steelmire",
+    "Facciones/Los Vaelirr/Círculo Íntimo",
+    "Facciones/Los Vaelirr/Ramificaciones",
+    "Facciones/Akhar Drath/Círculo Íntimo de Akhar Drath",
+    "Personajes/Figuras_Importantes/Jugadores/Khadresh Vol-Arim/Zerakhendras",
+    "Personajes/Figuras_Importantes/Jugadores/Renata Gedaer Uruir",
+    "Personajes/Figuras_Importantes/Jugadores/Lordran Thalorien",
+    "Personajes/Figuras_Importantes/Jugadores/Kimmi",
+    "Personajes/Figuras_Importantes/Jugadores/Khadresh Vol-Arim"
   ]
 }

@@ -1,4 +1,5 @@
-
+Los orcos deben su creación  a [Dios], un dios poderoso que vagaba por los amplios espacios abiertos del Plano Material. [Mismo Dios], concedió dones a sus hijos para ayudarles a recorrer  grandes llanuras, extensas cavernas y mares turbulentos para enfrentarse a los monstruos que en ellos acechaban. Incluso aunque se consagren a otros dioses, los orcos conservan los dones de  [Mismo Dios]: la resistencia, la determinación y la capacidad de ver en la oscuridad.
+Por lo general, los orcos son altos y fornidos. Su piel es de color gris y tienen orejas muy puntiagudas y unos colmillos inferiores prominentes. A los orcos jóvenes de algunos lugares se les habla de los grandes viajes y penurias de sus antepasados. Muchos de estos orcos, inspirados por estos relatos, se preguntan cuándo los convocará [Mismo dios] para igualar las hazañas heroicas de antaño y demostrar que son merecedores de su favor. Otros orcos, sin embargo, prefieren dejar atrás esas historias y labrar su propio camino.
 
 ---
 [^1]:[[Razas Originales]]

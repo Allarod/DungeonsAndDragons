@@ -25,7 +25,7 @@
       "query": "path:Atlas  ",
       "color": {
         "a": 1,
-        "rgb": 8347689
+        "rgb": 7164710
       }
     },
     {
@@ -78,13 +78,6 @@
       }
     },
     {
-      "query": "path:Personajes  ",
-      "color": {
-        "a": 1,
-        "rgb": 16648971
-      }
-    },
-    {
       "query": "path:\"Razas Inteligentes\"  ",
       "color": {
         "a": 1,
@@ -104,10 +97,31 @@
         "a": 1,
         "rgb": 11730944
       }
+    },
+    {
+      "query": "file:Jugadores",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Personajes/Figuras_Importantes/Jugadores  ",
+      "color": {
+        "a": 1,
+        "rgb": 16673900
+      }
+    },
+    {
+      "query": "path:Personajes",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -116,6 +130,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1316872427983449,
+  "scale": 0.1846232622585643,
   "close": true
 }

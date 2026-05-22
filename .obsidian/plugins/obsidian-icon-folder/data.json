@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaBatteryWhite",
-      "RaBottomRight"
+      "🧠",
+      "📚",
+      "⛪",
+      "RaCircleOfCircles",
+      "🤵"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +34,18 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Herramientas": "RaBatteryWhite"
+  "Herramientas": "⛏",
+  "Astronomía": "🌟",
+  "Atlas": "⛰",
+  "Compendio Natural": "🪴",
+  "Cultura, Usos y Costumbres": "⚱",
+  "Facciones": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "Historia": "⚔",
+  "Literatura": "✒",
+  "Magia": "🪄",
+  "Mitología": "🔮",
+  "Personajes": "🤵",
+  "Razas Inteligentes": "🧠",
+  "Religión": "⛪",
+  "Terminología": "📚"
 }

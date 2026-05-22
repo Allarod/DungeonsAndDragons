@@ -36,27 +36,6 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Facciones/Los Vaelirr",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Facciones/Los Vaelirr/Los Vaelendir",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "Facciones/Los Seguidores del Eterno",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
         "pattern": "Mitología/Divinidades/Primeras Entidades",
         "patternType": "STRICT"
       },
@@ -65,6 +44,27 @@
         "active": true,
         "type": "DIRECTORIES",
         "pattern": "Atlas/Mapas",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Facciones/Los Vaelirr/Círculo Íntimo",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Facciones/Los Vaelirr/Círculo Íntimo/Aren Vaelendir.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Facciones/Akhar Drath/Círculo Íntimo",
         "patternType": "STRICT"
       }
     ],

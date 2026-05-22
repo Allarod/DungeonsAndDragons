@@ -1,0 +1,11 @@
+{
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
+  "primary-theme@@ribbon_styles": "ribbon-default",
+  "primary-theme@@interface_editor-bg": "editor-bg-default",
+  "primary-theme@@editor-file-header": "file-header-hover",
+  "primary-theme@@interface_status-bar-style": "sb-style-slideupfull",
+  "primary-theme@@colorful-folders_collapse-indicator": false,
+  "primary-theme@@colorful-folders_background": false,
+  "primary-theme@@colorful-folders_indentation-guide": false
+}

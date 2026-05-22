@@ -1,4 +1,7 @@
-
+Los medianos, valorados y guiados por los dioses que aprecian la vida, el hogar y la tranquilidad, se sienten atraídos por lugares bucólicos en los que la familia y la comunidad ayuden a hilvanar sus vidas. No obstante, muchos medianos tienen un espíritu valiente y aventurero que les lleva a emprender viajes de descubrimiento para explorar el mundo que los rodea y entablar nuevas amistades por el camino. Su tamaño, que es similar al de un niño humano, les ayuda a pasar desapercibidos entre la gente y colarse por espacios estrechos.
+Todo aquel que ha pasado algún tiempo con los medianos, en especial con aventureros medianos, probablemente haya presenciado la famosa "suerte de los medianos" en acción. Cuando un mediano se encuentra en peligro mortal, una fuerza invisible parece intervenir a su favor. Muchos medianos creen en la buena fortuna y atribuyen este don inusual a uno o varios de sus benévolos dioses, como [Dios], [Dios] o [Dios]. Este mismo don puede ser la causa de su prolongada esperanza de vida (unos 150 años).
+Hay muchos tipos de comunidades de medianos. Por cada comarca aislada en alguna parte inmaculada del mundo, existe una organización criminal como [Nombre] o una banda territorial de medianos como [Nombre].
+Los medianos que prefieran vivir en el subsuelo se hacen llamar medianos fortecor o fornidos. Los medianos nómadas, así como aquellos que viven entre humanos y otros pueblos altos, a veces se denominan medianos pies ligeros o grandullones. 
 
 ---
 [^1]:[[Razas Originales]]

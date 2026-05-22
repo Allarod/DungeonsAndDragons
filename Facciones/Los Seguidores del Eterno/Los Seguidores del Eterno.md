@@ -1,4 +1,6 @@
 > Culto que sirve pleitesía a un ser conocido como [[El Gran Eterno]]
+
+# Importante
 - El culto no concede la vida eterna, aunque si frena el envejecimiento físico.
 - El momento de tu muerte no se ve modificado y se mantiene dentro de los límites de tu destino.
 - No es especialmente activo en planes.
